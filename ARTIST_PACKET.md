@@ -1,0 +1,1377 @@
+# TOME OF DAMNATION · Vol. 1 · ARTIST PACKET
+© WickedIsland LLC / Kozvrt. Production storyboard for hand artists. Reference images: `panels/<id>.jpg`; character cards: `CHARACTER_BIBLE/CARDS/`.
+
+## CHARACTER LOCKS (read first)
+- **Sister Jehra**: ARMORED and HOODED, always (LAW 2026-10-31). Pale, ancient, glowing eyes, battered dark plate, tattered black hood, chains at waist. Never a robed nun. Card: `SISTER_JEHRA_AGE_UNKNOWN.jpg` + add hood.
+- **Otura**: age-locked. 0 = infant in dark wrap. 8 = small boy, grey tee and shorts, barefoot at home (`OTURA_LIGHTBRINGER_8.jpg`). 10 = black jacket and boots (`_10`). 17 = tall teen, messy fro, black long coat, black shirt, skull pendant, boots (`_17`). Never mix the 8 and 17 designs.
+- **Yama Amaruk** (the shopkeeper): tall Black man, short hair, tattered dark brown hooded shawl, rune emblem on chest, arm wraps. Yama is NOT Death. **The Grim Reaper / Death** is a separate hooded skeletal figure with a scythe (`THE_GRIM_REAPER_AGE_UNKNOWN.jpg`). Never merge them.
+- **Gozu**: stone GOLEM SENTINEL (canon override). The story text says "juggernaut"; draw the golem.
+- **Kano**: ONE horn only, brown wolf tail, hellfire hands, navy bomber jacket, track pants, white sneakers, per card. No hearts motif.
+- **Amaya Hasan (17)**: long curly crimson hair, olive green long coat, purple dress, brown boots, satchel. **Kudura Hasan (17)**: spiky red hair, black headband, long red braid, sleeveless torn vest, bare chest, wraps.
+- **Eva Vanglory**: inspector, dark hair in bun, long black coat, badge. **Zander Mendez**: fire chief, turnout gear. **Gaya**: chancellor, braided hair, gold hoops, black/purple robe, golden sigil on forearm.
+- **The Most High** is always "IT/ITS". No hints at the endgame. No text in the art: all lettering is done in post.
+- **Gore**: panels tagged ACTION list the FULL intended gore level. The reference images are softened where the image tool limited them; draw to the GORE note, uncensored.
+
+
+## INTRO · A faint vision in Otura's mind · Year: Unknown
+
+### i01  (9:16)
+- **Beat / pose / setting:** a colossal cosmic rift tearing open deep in space, jagged white-violet light splitting a black starfield, tiny galaxies swirling into it, terrifying scale
+- **Shot:** SPLIT PANEL · **Lighting/mood:** low-key, heavy black ink shadows; gritty dark-horror ink
+- **Characters:** The Void `THE_VOID_AGE_UNKNOWN.jpg`
+- **Lettering (in order):**
+  1. [SPEECH balloon] **Otura**: "I been having these wild dreams for mad long... Its always like this vast space.. Like a rift or something.. Tearing open somewhere deep within the universe.."
+  2. [SPEECH balloon] **Otura**: "I'm visualizing this shit and it just terrifies the hell outta me.."
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
+### i02  (3:4)
+- **Beat / pose / setting:** dark stone cavern lit by a single candle; Sister Jehra (armored, hooded) sits facing a hooded teenage boy, shadows long, ominous mood
+- **Shot:** MEDIUM · **Lighting/mood:** single candle, deep shadow; gritty dark-horror ink
+- **Characters:** Sister Jehra `SISTER_JEHRA_AGE_UNKNOWN.jpg`, Otura (17) `OTURA_LIGHTBRINGER_17.jpg`
+- **Lettering (in order):**
+  1. [SPEECH balloon] **Sister Jehra**: "You see beyond the Great Rift. You see where the Grand Architect paints the universe we know. You see nothing and you see nowhere. You are special."
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
+### i03  (3:4)
+- **Beat / pose / setting:** close-up of a teenage boy with messy fro in a dark cavern, face troubled and angry, candlelight on one side of his face
+- **Shot:** CLOSE-UP · **Lighting/mood:** single candle, deep shadow; gritty dark-horror ink
+- **Characters:** Otura (17) `OTURA_LIGHTBRINGER_17.jpg`
+- **Lettering (in order):**
+  1. [SPEECH balloon] **Otura**: "So...my dreams are basically showing me...God? If there's a God....why is all this horrible shit even happening!?"
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
+### i04  (3:4)
+- **Beat / pose / setting:** close-up of Sister Jehra (armored, hooded), stern eyes glinting in shadow, wrinkled face, cavern behind her
+- **Shot:** CLOSE-UP · **Lighting/mood:** low-key, heavy black ink shadows; gritty dark-horror ink
+- **Characters:** Sister Jehra `SISTER_JEHRA_AGE_UNKNOWN.jpg`
+- **Lettering (in order):**
+  1. [SPEECH balloon] **Sister Jehra**: "Do you think your power comes from nothing or on accident boy? Humble yourself. Even Death has to meet his father.."
+  2. [SPEECH balloon] **Sister Jehra**: "Sit boy, I will tell you a story of the war that has raged for eons..."
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
+### i05  (9:16)
+- **Beat / pose / setting:** Sister Jehra (armored, hooded) speaking as shockwaves of force ripple through the cavern, rocks trembling and dust falling, immense pressure in the air
+- **Shot:** MEDIUM · **Lighting/mood:** low-key, heavy black ink shadows; gritty dark-horror ink
+- **Characters:** Sister Jehra `SISTER_JEHRA_AGE_UNKNOWN.jpg`
+- **Lettering (in order):**
+  1. [CAPTION box]: "Sister Jehra's voice echoes loudly, causing trembles throughout the cavern. Otura could feel the pressure and immense power emanating from the vibrations and sheer force of her voice."
+  2. [SPEECH balloon] **Sister Jehra**: "You think you are powerful Otura? The power of our creator is beyond what you can fathom. Imagine having the power to keep a force so massive that its aura alone has the power to erase galaxies."
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
+### i06  (9:16)
+- **Beat / pose / setting:** a vast horrific luminous cosmic entity with one face many eyes four arms and a radiant halo, holding back a boundless writhing black void mass behind a cracked cosmic rift, galaxies dissolving
+- **Shot:** MEDIUM · **Lighting/mood:** low-key, heavy black ink shadows; gritty dark-horror ink
+- **Characters:** The Creator `THE_CREATOR_AGE_UNKNOWN.jpg`, The Void `THE_VOID_AGE_UNKNOWN.jpg`
+- **Lettering (in order):**
+  1. [CAPTION box]: "The Most High has contained this force we will call "the Void" within the unseen plains of the Outer Realms, beyond the Rift of the Universe, for millennia."
+  2. [CAPTION box]: "The Void's power is limitless and uncontrolled and does not stop, it only grows stronger until it consumes all within its path."
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
+### i07  (3:4)
+- **Beat / pose / setting:** black tendrils of corrupted energy seeping through cracks in space like a slow leak into a planet-filled universe, poisonous dark mist
+- **Shot:** MEDIUM · **Lighting/mood:** low-key, heavy black ink shadows; gritty dark-horror ink
+- **Characters:** none (environment / FX)
+- **Lettering (in order):**
+  1. [CAPTION box]: "The negative spirit power the Void exerts from its prison seeps into the universe like a slow leak...and poisons us all. Without The Most High, even I would be dust or consumed by the Void."
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
+### i08  (3:4)
+- **Beat / pose / setting:** Sister Jehra (armored, hooded) in the cavern, hand raised, grave and fierce, embers of light floating around her
+- **Shot:** MEDIUM · **Lighting/mood:** low-key, heavy black ink shadows; gritty dark-horror ink
+- **Characters:** Sister Jehra `SISTER_JEHRA_AGE_UNKNOWN.jpg`
+- **Lettering (in order):**
+  1. [SPEECH balloon] **Sister Jehra**: "Our creator is strained. We must play our roles in this war and stand by our creator with the power we've been instilled with."
+  2. [SPEECH balloon] **Sister Jehra**: "We must help purge this evil and bring balance to the universe with the primary goal of defeating the Void for good in the end."
+  3. [SPEECH balloon] **Sister Jehra**: "If we sit idle, the Void and its abominations will consume all our universes and possibly even our creator."
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
+### i09  (9:16)
+- **Beat / pose / setting:** shadowy towering godlike silhouettes on thrones over barren wastelands, worshippers kneeling, streams of spirit light being harvested from weak beings into the shadowy figures
+- **Shot:** MEDIUM · **Lighting/mood:** low-key, heavy black ink shadows; gritty dark-horror ink
+- **Characters:** none (environment / FX)
+- **Lettering (in order):**
+  1. [CAPTION box]: "These self-proclaimed...Heralds...they are worshipped as Gods by many beings of the Inner Realms...but, they are weak and they are cowardly."
+  2. [CAPTION box]: "These Heralds are no avatars, they operate in the shadows and harvest vast amounts of spirit power from weaker beings for their own selfish agendas."
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
+### i10  (3:4)
+- **Beat / pose / setting:** a lone balanced cosmic figure meditating between light and darkness halves, calm, perfect symmetry, ink style
+- **Shot:** MEDIUM · **Lighting/mood:** low-key, heavy black ink shadows; gritty dark-horror ink
+- **Characters:** none (environment / FX)
+- **Lettering (in order):**
+  1. [CAPTION box]: "An Avatar seeks balance over power, as with balance comes peace, and this is why true Avatars are among the most powerful beings in the universe."
+  2. [CAPTION box]: "The Heralds do not wish to be on the side of The Most High, or simply do not care..They'd rather take their power and wage their own bitter wars over barren domains."
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
+### i11  (3:4)
+- **Beat / pose / setting:** Sister Jehra (armored, hooded) kneeling slightly before the teenage boy in the cavern, offering her service, candle flame between them
+- **Shot:** MEDIUM · **Lighting/mood:** single candle, deep shadow, firelight orange; gritty dark-horror ink
+- **Characters:** Sister Jehra `SISTER_JEHRA_AGE_UNKNOWN.jpg`, Otura (17) `OTURA_LIGHTBRINGER_17.jpg`
+- **Lettering (in order):**
+  1. [SPEECH balloon] **Sister Jehra**: "Otura, as the true Avatar of Death and Prince of Death's Domain..you may be the most crucial piece towards ending this war for deep reasons I will never understand."
+  2. [SPEECH balloon] **Sister Jehra**: "I will give my life to guide you along your path as your emissary if you will accept me..."
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
+
+## CHAPTER 1 · "Mourning Stars" · The Inner Realms: Purgatory · 2173 CE
+
+### c1_01  (9:16)
+- **Beat / pose / setting:** purgatory wasteland at night, crackling lightning, maroon red plasma sky and blood rain, dead giant black trees with blood-soaked leaves, ruined castles
+- **Shot:** MEDIUM · **Lighting/mood:** rain, wet sheen; gritty dark-horror ink
+- **Characters:** none (environment / FX)
+- **Lettering (in order):**
+  1. [CAPTION box]: "While the ancient cosmic entities waged their Eternal Wars, Lilith watched from the shadows of her bloody throne in Purgatory."
+  2. [CAPTION box]: "Purgatory was once a powerful and flourishing kingdom occupied by the outcasted children of the Void. It is now a vast and dark wasteland of ruins."
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
+### c1_02  (16:9)
+- **Beat / pose / setting:** exterior of a gothic demonic castle on a cliff in blood rain, red lightning, dead forest
+- **Shot:** MEDIUM · **Lighting/mood:** rain, wet sheen; gritty dark-horror ink
+- **Characters:** none (environment / FX)
+- **Lettering (in order):**
+  1. [CAPTION box]: "Destroyed castles, and giant dark trees, most dead or soaked with bloodied leaves from constant blood rain."
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
+### c1_03  (16:9)
+- **Beat / pose / setting:** inside a dark throne hall, a demonic queen seated at the head of a long council table during a war briefing, shadowy demon generals around the table, candles
+- **Shot:** MEDIUM · **Lighting/mood:** single candle, deep shadow; gritty dark-horror ink
+- **Characters:** Lilith `LILITH_AGE_UNKNOWN.jpg`
+- **Lettering:** none (silent panel)
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
+### c1_04  (3:4)
+- **Beat / pose / setting:** extreme close-up full panel of the demon queen grinning wickedly, sharp teeth, glowing eyes, dramatic shadows
+- **Shot:** EXTREME CLOSE-UP · **Lighting/mood:** low-key, heavy black ink shadows; gritty dark-horror ink
+- **Characters:** Lilith `LILITH_AGE_UNKNOWN.jpg`
+- **Lettering (in order):**
+  1. [SPEECH balloon] **Lilith**: "We will eliminate the heirs of the Wardens of Death and all other Heralds...one-by-one"
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
+### c1_05  (3:4)
+- **Beat / pose / setting:** the demon queen half in shadow, a serene neutral mask held beside her vile true face, symbolic split
+- **Shot:** SPLIT PANEL · **Lighting/mood:** low-key, heavy black ink shadows; gritty dark-horror ink
+- **Characters:** Lilith `LILITH_AGE_UNKNOWN.jpg`
+- **Lettering (in order):**
+  1. [CAPTION box]: "Lilith hides her ambitions behind a mask of neutrality when in the presence of the other Heralds. But within her Domain, she is vile and unfiltered."
+  2. [CAPTION box]: "Her followers know how deceiving she can be and the true evils the Queen of Purgatory is capable of."
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
+### c1_06  (9:16)
+- **Beat / pose / setting:** bird's-eye wide establishing shot of a futuristic cyberpunk megacity at night in heavy rain, neon skyscrapers fused with grimy low-rises, hovering cars on light-lanes, moon, reflective wet streets
+- **Shot:** BIRD'S-EYE WIDE · **Lighting/mood:** neon purple/cyan, wet reflections, cold moonlight, rain, wet sheen; gritty dark-horror ink
+- **Characters:** none (environment / FX)
+- **Lettering (in order):**
+  1. [CAPTION box]: "Earth: Empire City, night · 2175 CE"
+  2. [CAPTION box]: "The peace these beings felt was just a fragile illusion. The humans were a mere hum of existence, blissfully unaware of this cosmic war bleeding into their reality."
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
+### c1_07  (16:9)
+- **Beat / pose / setting:** grimy rain-soaked slum street market at night, cramped old apartments, homeless people under tarps, no flying cars, flickering signs
+- **Shot:** MEDIUM · **Lighting/mood:** rain, wet sheen; gritty dark-horror ink
+- **Characters:** none (environment / FX)
+- **Lettering (in order):**
+  1. [CAPTION box]: "Earth: Empire City Slums"
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
+### c1_08  (3:4)
+- **Beat / pose / setting:** small cramped slum apartment interior, warm lamp light, a young mother hugging her small 8-year-old son, cozy but poor
+- **Shot:** MEDIUM · **Lighting/mood:** warm lamp; gritty dark-horror ink
+- **Characters:** Otura (8) `OTURA_LIGHTBRINGER_8.jpg`, Avani `AVANI_AGE_UNKNOWN.jpg`
+- **Lettering (in order):**
+  1. [CAPTION box]: "In a small apartment in the heart of the Empire slums lived eight-year-old Otura, who lived within a world defined by his mother Avani's love."
+  2. [CAPTION box]: "Having endured and overcome her own grief and traumas in the past, Avani's world now revolved around her son; he was her only light."
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
+### c1_09  (3:4)
+- **Beat / pose / setting:** view from outside an apartment window at night in the rain, a mother washing dishes in a small kitchen, a faint dark wrongness in the air like dust
+- **Shot:** MEDIUM · **Lighting/mood:** rain, wet sheen; gritty dark-horror ink
+- **Characters:** Avani `AVANI_AGE_UNKNOWN.jpg`
+- **Lettering (in order):**
+  1. [CAPTION box]: "His laughter was a ward against the approaching darkness she could feel but could not name. It was like a subtle wrongness in the air that settled like dust on the core of her soul."
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
+### c1_10  (3:4)
+- **Beat / pose / setting:** 8-year-old boy on a worn couch laughing and giggling at a glowing tablet, apartment at night
+- **Shot:** MEDIUM · **Lighting/mood:** low-key, heavy black ink shadows; gritty dark-horror ink
+- **Characters:** Otura (8) `OTURA_LIGHTBRINGER_8.jpg`
+- **Lettering (in order):**
+  1. [CAPTION box]: "Avani looks over at Otura, it's late."
+  2. [SPEECH balloon] **Avani**: "Otura, it's time for bed."
+  3. [SPEECH balloon] **Otura**: "Aw mommy, can I watch for 15 more minutes please?"
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
+### c1_11  (3:4)
+- **Beat / pose / setting:** the mother at the sink looking over her shoulder with a gentle smile
+- **Shot:** MEDIUM · **Lighting/mood:** low-key, heavy black ink shadows; gritty dark-horror ink
+- **Characters:** Avani `AVANI_AGE_UNKNOWN.jpg`
+- **Lettering (in order):**
+  1. [SPEECH balloon] **Avani**: "How about 10 more minutes...and then we go and brush your teeth?"
+  2. [SPEECH balloon] **Otura**: "Ok, sounds good!"
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
+### c1_12  (3:4)
+- **Beat / pose / setting:** small boy standing on a step stool to see the bathroom mirror, brushing his teeth, his mother beside him
+- **Shot:** MEDIUM · **Lighting/mood:** low-key, heavy black ink shadows; gritty dark-horror ink
+- **Characters:** Otura (8) `OTURA_LIGHTBRINGER_8.jpg`
+- **Lettering:** none (silent panel)
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
+### c1_13  (3:4)
+- **Beat / pose / setting:** mother tucking her small son into bed and kissing his forehead, soft gentle moment, dim bedroom
+- **Shot:** MEDIUM · **Lighting/mood:** low-key, heavy black ink shadows; gritty dark-horror ink
+- **Characters:** Avani `AVANI_AGE_UNKNOWN.jpg`, Otura (8) `OTURA_LIGHTBRINGER_8.jpg`
+- **Lettering (in order):**
+  1. [SPEECH balloon] **Avani**: "Goodnight Otura, sleep well son, I love you."
+  2. [SPEECH balloon] **Otura**: "Goodnight mommy, love you!"
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
+### c1_14  (16:9)
+- **Beat / pose / setting:** the mother lying on a couch in a dark living room, tucked under a blanket, eyes closed, rain on window
+- **Shot:** MEDIUM · **Lighting/mood:** rain, wet sheen; gritty dark-horror ink
+- **Characters:** Avani `AVANI_AGE_UNKNOWN.jpg`
+- **Lettering (in order):**
+  1. [CAPTION box]: "Avani leaves Otura's room and closes the door behind her. She lies down, tucks herself in and closes her eyes for rest."
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
+### c1_15  (3:4)
+- **Beat / pose / setting:** woman jolting awake on the couch, orange firelight and smoke flooding the dark apartment, terror
+- **Shot:** MEDIUM · **Lighting/mood:** firelight orange, embers; gritty dark-horror ink
+- **Characters:** Avani `AVANI_AGE_UNKNOWN.jpg`
+- **Lettering (in order):**
+  1. [CAPTION box]: "The smell of smoke in the air and the heat of fire abruptly wakes Avani up."
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
+### c1_16  (9:16) · ACTION
+- **Beat / pose / setting:** mother ramming her shoulder into a glowing hot melted bedroom door, screaming in agony, flames at the door edges, lightning outside window
+- **Shot:** MEDIUM · **Lighting/mood:** firelight orange; gritty dark-horror ink
+- **Characters:** Avani `AVANI_AGE_UNKNOWN.jpg`
+- **GORE (full intended):** Uncensored. Show wounds, blood spray, and impact damage at full horror intensity, with heavy speed lines and smear frames. Do not soften to match the reference.
+- **Lettering (in order):**
+  1. [CAPTION box]: "She screams in agony as soon as her skin touches the hot, melted door."
+  2. [SPEECH balloon] **Avani**: "Son? Otura! Otura!"
+  3. [SPEECH balloon] **Otura**: "Mommy! What's going on??! Help me, it's so hot, there's fire and I'm scared!"
+  4. [SPEECH balloon] **Avani**: "It'll be okay son, I'm going to get you out!"
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
+### c1_17  (9:16) · ACTION
+- **Beat / pose / setting:** a grotesque demon with rotten burnt bloody flesh walking slowly out of flames and smoke toward the viewer, horror
+- **Shot:** MEDIUM · **Lighting/mood:** firelight orange; gritty dark-horror ink
+- **Characters:** Liliths Demon `LILITHS_DEMON_AGE_UNKNOWN.jpg`
+- **GORE (full intended):** Uncensored. Show wounds, blood spray, and impact damage at full horror intensity, with heavy speed lines and smear frames. Do not soften to match the reference.
+- **Lettering (in order):**
+  1. [CAPTION box]: "A grim, dark voice quickly sent chills through Avani's body, making her feel cold despite the raging flames."
+  2. [SPEECH balloon] **Demon**: "Stop it you disgusting weak human..this is pathetic"
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
+### c1_18  (3:4)
+- **Beat / pose / setting:** close-up of the burned mother trembling in fear, soot and tears, firelight
+- **Shot:** CLOSE-UP · **Lighting/mood:** firelight orange, embers; gritty dark-horror ink
+- **Characters:** Avani `AVANI_AGE_UNKNOWN.jpg`
+- **Lettering (in order):**
+  1. [SPEECH balloon] **Avani**: "Otura... My boy.."
+  2. [SPEECH balloon] **Avani**: "Wha-what are you..please just leave us alone!"
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
+### c1_19  (16:9) · ACTION
+- **Beat / pose / setting:** the demon engulfing the woman in dark crimson power, she is paralyzed mid-motion, flames around
+- **Shot:** MEDIUM · **Lighting/mood:** firelight orange; gritty dark-horror ink
+- **Characters:** Liliths Demon `LILITHS_DEMON_AGE_UNKNOWN.jpg`, Avani `AVANI_AGE_UNKNOWN.jpg`
+- **GORE (full intended):** Uncensored. Show wounds, blood spray, and impact damage at full horror intensity, with heavy speed lines and smear frames. Do not soften to match the reference.
+- **Lettering (in order):**
+  1. [CAPTION box]: "Avani is immediately paralyzed."
+  2. [SPEECH balloon] **Demon**: "I am your end...you and your abomination of a son will die here tonight."
+  3. [SPEECH balloon] **Avani**: "Please whoever you are, please I beg of you just let him go! Take me instead!"
+  4. [SPEECH balloon] **Demon**: "Take you? What would I do with a human whore!?"
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
+### c1_20  (3:4) · ACTION
+- **Beat / pose / setting:** the demon pressing a burning claw of flame against the paralyzed woman's mouth, searing glow, horror, no gore detail
+- **Shot:** MEDIUM · **Lighting/mood:** firelight orange; gritty dark-horror ink
+- **Characters:** Liliths Demon `LILITHS_DEMON_AGE_UNKNOWN.jpg`
+- **GORE (full intended):** Uncensored. Show wounds, blood spray, and impact damage at full horror intensity, with heavy speed lines and smear frames. Do not soften to match the reference.
+- **Lettering (in order):**
+  1. [SPEECH balloon] **Avani**: "Please! Don't! -"
+  2. [SPEECH balloon] **Demon**: "SILENCE FILTHY MAGGOT!"
+  3. [CAPTION box]: "In an instant, the Demon brands Avani's mouth with a flame so hot, it seared her lips shut."
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
+### c1_21  (3:4) · ACTION
+- **Beat / pose / setting:** the demon leaning in, hungry grin, drool, dying flames behind it
+- **Shot:** MEDIUM · **Lighting/mood:** firelight orange; gritty dark-horror ink
+- **Characters:** Liliths Demon `LILITHS_DEMON_AGE_UNKNOWN.jpg`
+- **GORE (full intended):** Uncensored. Show wounds, blood spray, and impact damage at full horror intensity, with heavy speed lines and smear frames. Do not soften to match the reference.
+- **Lettering (in order):**
+  1. [CAPTION box]: "Otura's screams turned into soft cries, and as his soft cries went completely silent, so did she."
+  2. [SPEECH balloon] **Demon**: "Ah, that's... Now which one of you will I eat first?"
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
+### c1_22  (3:4)
+- **Beat / pose / setting:** an empty burnt apartment hallway, smoke curling where a demon just vanished into thin air, embers dying
+- **Shot:** MEDIUM · **Lighting/mood:** low-key, heavy black ink shadows; gritty dark-horror ink
+- **Characters:** none (environment / FX)
+- **Lettering (in order):**
+  1. [CAPTION box]: "Just as the demon prepared to consume Avani and Otura, he vanished into thin air."
+  2. [CAPTION box]: "The demon is gone and the flames ceased almost instantly. The silence that followed was more deafening than the roar of the flames."
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
+### c1_23  (3:4)
+- **Beat / pose / setting:** the mother frozen on the scorched floor, tears streaking through soot, silent scream, dark
+- **Shot:** MEDIUM · **Lighting/mood:** low-key, heavy black ink shadows; gritty dark-horror ink
+- **Characters:** Avani `AVANI_AGE_UNKNOWN.jpg`
+- **Lettering (in order):**
+  1. [CAPTION box]: "Her Otura, her sweet, innocent boy, was gone."
+  2. [THOUGHT balloon]: ""Which one of you will I eat first?"...A chill ran down her spine. This was not over. This was just the beginning."
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
+### c1_24  (9:16)
+- **Beat / pose / setting:** a dark rain-streaked window of the burnt slum apartment at night, lightning, an abandoned kitchen knife silhouette on the floor, no gore, somber
+- **Shot:** MEDIUM · **Lighting/mood:** rain, wet sheen; gritty dark-horror ink
+- **Characters:** none (environment / FX)
+- **Lettering (in order):**
+  1. [CAPTION box]: "Avani, fueled by a grief-stricken rage and a mother's unwavering love, felt as if she had nothing else to live for."
+  2. [CAPTION box]: "Avani took her own life with a slash of a knife to the throat, she had failed her only son..."
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
+
+## THE WAR OF THE DEAD · 2176 CE
+
+### w01  (9:16) · ACTION
+- **Beat / pose / setting:** a massive dark army of hell legions, fallen angels and red-cloaked cabal marching under a burning sky, a horned demon king at the front
+- **Shot:** MEDIUM · **Lighting/mood:** low-key, heavy black ink shadows; gritty dark-horror ink
+- **Characters:** Satan `SATAN_AGE_UNKNOWN.jpg`
+- **GORE (full intended):** Uncensored. Show wounds, blood spray, and impact damage at full horror intensity, with heavy speed lines and smear frames. Do not soften to match the reference.
+- **Lettering (in order):**
+  1. [CAPTION box]: "In the year 2176 CE, Satan & The Legion of Hell, The Red Cabal, and various enemies and fallen angels have allied to stand against the House of Death."
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
+### w02  (9:16)
+- **Beat / pose / setting:** a towering death citadel of black spires; a hooded grim reaper figure on a throne of bones, cloaked reapers on guard, ruthless
+- **Shot:** MEDIUM · **Lighting/mood:** low-key, heavy black ink shadows; gritty dark-horror ink
+- **Characters:** The Grim Reaper `THE_GRIM_REAPER_AGE_UNKNOWN.jpg`
+- **Lettering (in order):**
+  1. [CAPTION box]: "The House of Death are the followers, family members, and descendants of The Grim Reaper. The members of Death's Domain are on guard and ruthless."
+  2. [CAPTION box]: "For every soul within the Inner Realms that pledges allegiance to or prays to the House of Death, Death's Domain increases in power."
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
+### w03  (3:4) · ACTION
+- **Beat / pose / setting:** demon lords slicing their palms over a circle of black thorny vines, sealing a blood pact, red candles
+- **Shot:** MEDIUM · **Lighting/mood:** single candle, deep shadow; gritty dark-horror ink
+- **Characters:** none (environment / FX)
+- **GORE (full intended):** Uncensored. Show wounds, blood spray, and impact damage at full horror intensity, with heavy speed lines and smear frames. Do not soften to match the reference.
+- **Lettering (in order):**
+  1. [CAPTION box]: "These forces against The House of Death have formed a blood pact called The Pact of Black Thorns."
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
+### w04  (16:9) · ACTION
+- **Beat / pose / setting:** cloaked reapers slaughtering hordes of demons across a battlefield, scythes flashing, ink splatter
+- **Shot:** MEDIUM · **Lighting/mood:** low-key, heavy black ink shadows; gritty dark-horror ink
+- **Characters:** none (environment / FX)
+- **GORE (full intended):** Uncensored. Show wounds, blood spray, and impact damage at full horror intensity, with heavy speed lines and smear frames. Do not soften to match the reference.
+- **Lettering (in order):**
+  1. [CAPTION box]: "After the deaths of Otura and Avani, the House of Death slaughtered any demonic opposition in sight."
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
+### w05  (3:4)
+- **Beat / pose / setting:** demonic hands reaching toward a sealed cracked cosmic prison leaking black void energy
+- **Shot:** MEDIUM · **Lighting/mood:** low-key, heavy black ink shadows; gritty dark-horror ink
+- **Characters:** The Void `THE_VOID_AGE_UNKNOWN.jpg`
+- **Lettering (in order):**
+  1. [CAPTION box]: "The Black Thorns are seeking to kill Death and consume him and his primeval power, and then they plan to eliminate all other Wardens and Heralds to gain the strength they need to overpower The Most High and its allies in the Eternal War, some even wish to free The Void."
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
+
+## CHAPTER 2 · Born Again · Somewhere far away on Earth · 2185 CE · Resurrection count: 1 · Otura's age: 0
+
+### c2_01  (9:16)
+- **Beat / pose / setting:** a mystic purple and black portal shrouded in fog tearing open in a desert sky
+- **Shot:** MEDIUM · **Lighting/mood:** low-key, heavy black ink shadows; gritty dark-horror ink
+- **Characters:** none (environment / FX)
+- **Lettering (in order):**
+  1. [CAPTION box]: "For the first time in Otura's life 100 years later, he is resurrected."
+  2. [CAPTION box]: "His rebirth seems to be in the form of a mystic purple, with a tone of black and purple hue, shrouded by fog."
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
+### c2_02  (16:9) · ACTION
+- **Beat / pose / setting:** a baby wrapped in cloth falling from the purple portal and slamming into a dry desert, huge impact crater and dust shockwave
+- **Shot:** MEDIUM · **Lighting/mood:** low-key, heavy black ink shadows; gritty dark-horror ink
+- **Characters:** Otura (infant) `OTURA_LIGHTBRINGER_0.jpg`
+- **GORE (full intended):** Uncensored. Show wounds, blood spray, and impact damage at full horror intensity, with heavy speed lines and smear frames. Do not soften to match the reference.
+- **Lettering (in order):**
+  1. [SFX]: "KRAKOOM"
+  2. [CAPTION box]: "Otura falls from this portal in the sky, causing a massive impact on the earth ground below."
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
+### c2_03  (3:4)
+- **Beat / pose / setting:** a baby in a wrap sitting unharmed and smiling at the center of a smoking crater in a dry desert
+- **Shot:** MEDIUM · **Lighting/mood:** low-key, heavy black ink shadows; gritty dark-horror ink
+- **Characters:** Otura (infant) `OTURA_LIGHTBRINGER_0.jpg`
+- **Lettering (in order):**
+  1. [CAPTION box]: "Otura is unfazed and unharmed. Otura is rebirthed in the dry desert of Pangea, far away from Empire City."
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
+### c2_04  (3:4)
+- **Beat / pose / setting:** the mysterious shopkeeper man appearing in a teleport flash at the crater rim, looking down at the baby
+- **Shot:** MEDIUM · **Lighting/mood:** low-key, heavy black ink shadows; gritty dark-horror ink
+- **Characters:** Yama Amaruk `YAMA_AMARUK_AGE_UNKNOWN.jpg`, Otura (infant) `OTURA_LIGHTBRINGER_0.jpg`
+- **Lettering (in order):**
+  1. [SPEECH balloon] **Yama**: "Ah, finally the time has come. Baby Otura, I've been pulled through countless timelines and dimensions to be here for you today."
+  2. [SPEECH balloon] **Otura**: "Boo boo!"
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
+### c2_05  (3:4)
+- **Beat / pose / setting:** the man holding the giggling baby up at eye level, curious expression
+- **Shot:** MEDIUM · **Lighting/mood:** low-key, heavy black ink shadows; gritty dark-horror ink
+- **Characters:** Yama Amaruk `YAMA_AMARUK_AGE_UNKNOWN.jpg`, Otura (infant) `OTURA_LIGHTBRINGER_0.jpg`
+- **Lettering (in order):**
+  1. [SPEECH balloon] **Yama**: "Well... to be fair I didn't expect to be retrieving a baby. I wonder, do you have memories of your past life, little one?"
+  2. [SPEECH balloon] **Otura**: "Aha!"
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
+### c2_06  (3:4)
+- **Beat / pose / setting:** the man cradling the baby protectively, solemn vow expression, desert wind
+- **Shot:** MEDIUM · **Lighting/mood:** low-key, heavy black ink shadows; gritty dark-horror ink
+- **Characters:** Yama Amaruk `YAMA_AMARUK_AGE_UNKNOWN.jpg`, Otura (infant) `OTURA_LIGHTBRINGER_0.jpg`
+- **Lettering (in order):**
+  1. [SPEECH balloon] **Yama**: "I'll be taking care of you from here on out Otura. I will give my life to protect yours, as Avani would have wanted."
+  2. [SPEECH balloon] **Otura**: "POO!"
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
+### c2_07  (3:4)
+- **Beat / pose / setting:** comedic: the man holding the baby at arm's length, disgusted face, stink lines
+- **Shot:** MEDIUM · **Lighting/mood:** low-key, heavy black ink shadows; gritty dark-horror ink
+- **Characters:** Yama Amaruk `YAMA_AMARUK_AGE_UNKNOWN.jpg`, Otura (infant) `OTURA_LIGHTBRINGER_0.jpg`
+- **Lettering (in order):**
+  1. [SPEECH balloon] **Yama**: "Ah... so that's what that rancid smell was... what do souls even eat to have feces this disgusting?"
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
+### c2_08  (3:4)
+- **Beat / pose / setting:** the man turning sharply, eyes narrowing, sensing danger, baby tucked in arm
+- **Shot:** MEDIUM · **Lighting/mood:** low-key, heavy black ink shadows; gritty dark-horror ink
+- **Characters:** Yama Amaruk `YAMA_AMARUK_AGE_UNKNOWN.jpg`, Otura (infant) `OTURA_LIGHTBRINGER_0.jpg`
+- **Lettering (in order):**
+  1. [SPEECH balloon] **Yama**: "No matter, I sense many presences approaching. We must leave now, Otura."
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
+### c2_09  (16:9) · ACTION
+- **Beat / pose / setting:** the man with baby in one arm swiftly cutting down two mysterious hooded men in the desert, blur of speed
+- **Shot:** MEDIUM · **Lighting/mood:** low-key, heavy black ink shadows; gritty dark-horror ink
+- **Characters:** Yama Amaruk `YAMA_AMARUK_AGE_UNKNOWN.jpg`
+- **GORE (full intended):** Uncensored. Show wounds, blood spray, and impact damage at full horror intensity, with heavy speed lines and smear frames. Do not soften to match the reference.
+- **Lettering (in order):**
+  1. [CAPTION box]: "Yama is intercepted by two mysterious men and engages in a quick battle, swiftly eliminating both men and teleporting safely."
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
+### c2_10  (9:16)
+- **Beat / pose / setting:** sprawling interior of a cluttered mystic emporium shop, ancient artifacts, future tech, strange relics on shelves, dim lamps
+- **Shot:** MEDIUM · **Lighting/mood:** warm lamp; gritty dark-horror ink
+- **Characters:** Yama Amaruk `YAMA_AMARUK_AGE_UNKNOWN.jpg`
+- **Lettering (in order):**
+  1. [CAPTION box]: "Artifacts from forgotten civilizations, technological marvels from the future, and objects that defied explanation, all carefully curated and protected by Yama."
+  2. [CAPTION box]: "This was Otura's playground."
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
+### c2_11  (3:4)
+- **Beat / pose / setting:** a toddler crawling among relics in the emporium while the man reads to him
+- **Shot:** MEDIUM · **Lighting/mood:** low-key, heavy black ink shadows; gritty dark-horror ink
+- **Characters:** Otura (infant) `OTURA_LIGHTBRINGER_0.jpg`, Yama Amaruk `YAMA_AMARUK_AGE_UNKNOWN.jpg`
+- **Lettering (in order):**
+  1. [CAPTION box]: "Yama began Otura's training by subtly weaving lessons on history, philosophy, and combat into their daily routines."
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
+### c2_12  (3:4)
+- **Beat / pose / setting:** a young boy practicing a wooden sword stance as the man corrects his form in the emporium
+- **Shot:** MEDIUM · **Lighting/mood:** low-key, heavy black ink shadows; gritty dark-horror ink
+- **Characters:** Otura (8) `OTURA_LIGHTBRINGER_8.jpg`, Yama Amaruk `YAMA_AMARUK_AGE_UNKNOWN.jpg`
+- **Lettering (in order):**
+  1. [CAPTION box]: "For 10 years, Yama trained and protected Otura."
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
+### c2_13  (3:4)
+- **Beat / pose / setting:** a 10-year-old boy asking questions to the man by a shelf of grimoires, curious face
+- **Shot:** MEDIUM · **Lighting/mood:** low-key, heavy black ink shadows; gritty dark-horror ink
+- **Characters:** Otura (10) `OTURA_LIGHTBRINGER_10.jpg`, Yama Amaruk `YAMA_AMARUK_AGE_UNKNOWN.jpg`
+- **Lettering (in order):**
+  1. [CAPTION box]: "As Otura grew, so did his curiosity. He would often ask Yama about his parents, especially his father, whom he had never known."
+  2. [CAPTION box]: "For now, all Otura knows about his mother, Avani, is that she was killed by a demon the night he was born. Yama knows this is a lie, but he keeps this lie for as long as he possibly can."
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
+### c2_14  (3:4)
+- **Beat / pose / setting:** an imposing figure stepping uninvited through the emporium door, cocky
+- **Shot:** MEDIUM · **Lighting/mood:** low-key, heavy black ink shadows; gritty dark-horror ink
+- **Characters:** Draven `DRAVEN_AGE_UNKNOWN.jpg`
+- **Lettering (in order):**
+  1. [CAPTION box]: "The Emporium, Empire City · 2195 CE · Otura's age: 10"
+  2. [SPEECH balloon] **Draven**: "Mind if I let myself in, Yama?"
+  3. [SPEECH balloon] **Yama**: "You never were one to have manners, Draven."
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
+### c2_15  (16:9)
+- **Beat / pose / setting:** two men facing off tensely among emporium relics
+- **Shot:** MEDIUM · **Lighting/mood:** low-key, heavy black ink shadows; gritty dark-horror ink
+- **Characters:** Draven `DRAVEN_AGE_UNKNOWN.jpg`, Yama Amaruk `YAMA_AMARUK_AGE_UNKNOWN.jpg`
+- **Lettering (in order):**
+  1. [SPEECH balloon] **Draven**: "Well you know I like to get straight to the point... How's the boy?"
+  2. [SPEECH balloon] **Yama**: "He is well, he's in the observatory studying right now... Did he send you?"
+  3. [SPEECH balloon] **Draven**: "Death said you were concerned the boy is regaining memories. Have you evaluated what he might know, and where are your logs, Yama?"
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
+### c2_16  (3:4)
+- **Beat / pose / setting:** the shopkeeper irritated, arms crossed
+- **Shot:** MEDIUM · **Lighting/mood:** low-key, heavy black ink shadows; gritty dark-horror ink
+- **Characters:** Yama Amaruk `YAMA_AMARUK_AGE_UNKNOWN.jpg`
+- **Lettering (in order):**
+  1. [SPEECH balloon] **Yama**: "Do you really have to be up my ass right now... I brought this up with him and he said it would be an impossible occurrence without the pendant. The boy is just gifted... He's a genius."
+  2. [SPEECH balloon] **Draven**: "Well... He is the GRIM REAPER's KID... haha..."
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
+### c2_17  (3:4)
+- **Beat / pose / setting:** the shopkeeper with a completely straight deadpan face
+- **Shot:** MEDIUM · **Lighting/mood:** low-key, heavy black ink shadows; gritty dark-horror ink
+- **Characters:** Yama Amaruk `YAMA_AMARUK_AGE_UNKNOWN.jpg`
+- **Lettering (in order):**
+  1. [SPEECH balloon] **Yama**: "Well, is there anything else you needed or are you ready to leave?"
+  2. [SPEECH balloon] **Draven**: "Now Yama, don't get all riled up. We both know what's at stake if things go wrong."
+  3. [SPEECH balloon] **Yama**: "Yes, I know."
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
+### c2_18  (3:4)
+- **Beat / pose / setting:** the visitor chuckling darkly, air vibrating around him
+- **Shot:** MEDIUM · **Lighting/mood:** low-key, heavy black ink shadows; gritty dark-horror ink
+- **Characters:** Draven `DRAVEN_AGE_UNKNOWN.jpg`
+- **Lettering (in order):**
+  1. [SPEECH balloon] **Draven**: "Also, we are still under orders to kill anyone who comes within 500 meters of the boy, on sight."
+  2. [SPEECH balloon] **Yama**: "Yes Draven, so long as they don't hold a Sigil of Death."
+  3. [SPEECH balloon] **Draven**: "Of course Yama, we won't just kill anyone we want... That's not how we run things!"
+  4. [SPEECH balloon] **Yama**: "Right..."
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
+### c2_19  (9:16)
+- **Beat / pose / setting:** the visitor's form shimmering and dissolving into light, sharp glance over shoulder
+- **Shot:** MEDIUM · **Lighting/mood:** low-key, heavy black ink shadows; gritty dark-horror ink
+- **Characters:** Draven `DRAVEN_AGE_UNKNOWN.jpg`
+- **Lettering (in order):**
+  1. [SPEECH balloon] **Draven**: "VERY WELL! Keep us notified of the boy's progress and mishaps should there be any... Goodbye for now!"
+  2. [SPEECH balloon] **Draven**: "And Yama..."
+  3. [SPEECH balloon] **Draven**: "Do not deviate from the plan. The consequences would be catastrophic, not just for Earth, but for the entire realm."
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
+### c2_20  (3:4)
+- **Beat / pose / setting:** the shopkeeper alone looking up at the ceiling sighing heavily, upset
+- **Shot:** MEDIUM · **Lighting/mood:** low-key, heavy black ink shadows; gritty dark-horror ink
+- **Characters:** Yama Amaruk `YAMA_AMARUK_AGE_UNKNOWN.jpg`
+- **Lettering (in order):**
+  1. [SPEECH balloon] **Yama**: "The plan... Right."
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
+### c2_21  (3:4)
+- **Beat / pose / setting:** 10-year-old boy among books looking up with innocent smiling eyes
+- **Shot:** MEDIUM · **Lighting/mood:** low-key, heavy black ink shadows; gritty dark-horror ink
+- **Characters:** Otura (10) `OTURA_LIGHTBRINGER_10.jpg`
+- **Lettering (in order):**
+  1. [CAPTION box]: "Otura, who was busy reading books in the Emporium, looked towards Yama, his innocent eyes meeting Yama's with a smile."
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
+### c2_22  (3:4)
+- **Beat / pose / setting:** close-up of the shopkeeper's guilt-ridden, determined face
+- **Shot:** CLOSE-UP · **Lighting/mood:** low-key, heavy black ink shadows; gritty dark-horror ink
+- **Characters:** Yama Amaruk `YAMA_AMARUK_AGE_UNKNOWN.jpg`
+- **Lettering (in order):**
+  1. [SPEECH balloon] **Yama**: "Don't worry, little one."
+  2. [SPEECH balloon] **Yama**: "I'll make you strong and keep you safe... even if I die trying."
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
+
+## CHAPTER 3 · The City That Seems Alive · Empire City · 2202 CE · Otura's age: 17
+
+### c3_01  (9:16)
+- **Beat / pose / setting:** towering futuristic megacity at night, purple and cyan neon on skyscrapers, hovering vehicles, glowing billboards, moon
+- **Shot:** MEDIUM · **Lighting/mood:** neon purple/cyan, wet reflections, cold moonlight; gritty dark-horror ink
+- **Characters:** none (environment / FX)
+- **Lettering (in order):**
+  1. [CAPTION box]: "Purple and cyan neon lights danced along the towering skyscrapers, casting vibrant hues from the top of the new buildings down to the bustling streets below."
+  2. [CAPTION box]: "It was the usual night in Empire City."
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
+### c3_02  (9:16)
+- **Beat / pose / setting:** 17-year-old boy with messy fro walking alone through neon streets, headphones on, stylish utility outfit, pendant
+- **Shot:** MEDIUM · **Lighting/mood:** neon purple/cyan, wet reflections; gritty dark-horror ink
+- **Characters:** Otura (17) `OTURA_LIGHTBRINGER_17.jpg`
+- **Lettering (in order):**
+  1. [CAPTION box]: "Amid this multicolored symphony, 17-year-old Otura navigated the labyrinth of streets in his neighborhood, a lone figure searching for purpose beneath the canopy of stars."
+  2. [CAPTION box]: "His messy fro danced in the wind, an untamed rebellion against conformity."
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
+### c3_03  (16:9)
+- **Beat / pose / setting:** city park with towering trees and bioluminescent flora along paths at night, lone teen walking
+- **Shot:** MEDIUM · **Lighting/mood:** low-key, heavy black ink shadows; gritty dark-horror ink
+- **Characters:** Otura (17) `OTURA_LIGHTBRINGER_17.jpg`
+- **Lettering (in order):**
+  1. [CAPTION box]: "His path led him to a park nestled within the heart of the city."
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
+### c3_04  (3:4)
+- **Beat / pose / setting:** teen sitting alone beneath the evening sky, looking up at stars, melancholy
+- **Shot:** MEDIUM · **Lighting/mood:** low-key, heavy black ink shadows; gritty dark-horror ink
+- **Characters:** Otura (17) `OTURA_LIGHTBRINGER_17.jpg`
+- **Lettering (in order):**
+  1. [SPEECH balloon] **Otura**: "17 years on this Earth... I'm surprised I've gotten this far."
+  2. [SPEECH balloon] **Otura**: "Everyone seems to have their lives all figured out... Meanwhile I just feel like I have no purpose."
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
+### c3_05  (16:9)
+- **Beat / pose / setting:** teen standing at a tranquil river reflecting the moon and night sky, back view
+- **Shot:** MEDIUM · **Lighting/mood:** cold moonlight; gritty dark-horror ink
+- **Characters:** Otura (17) `OTURA_LIGHTBRINGER_17.jpg`
+- **Lettering (in order):**
+  1. [SPEECH balloon] **Otura**: "Most times, it's just me and my thoughts against the world..."
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
+### c3_06  (3:4)
+- **Beat / pose / setting:** teen smirking sadly at his own joke by the river
+- **Shot:** MEDIUM · **Lighting/mood:** low-key, heavy black ink shadows; gritty dark-horror ink
+- **Characters:** Otura (17) `OTURA_LIGHTBRINGER_17.jpg`
+- **Lettering (in order):**
+  1. [SPEECH balloon] **Otura**: "What's the point in any of this if I'm just going to die and go to hell anyway..."
+  2. [SPEECH balloon] **Otura**: "Yeah right, who'd wanna be stuck in hell after experiencing this?"
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
+### c3_07  (9:16)
+- **Beat / pose / setting:** teen looking up at the vast sky, arms loose, pleading to the universe
+- **Shot:** MEDIUM · **Lighting/mood:** low-key, heavy black ink shadows; gritty dark-horror ink
+- **Characters:** Otura (17) `OTURA_LIGHTBRINGER_17.jpg`
+- **Lettering (in order):**
+  1. [SPEECH balloon] **Otura**: "Yo God, Creator, Universe... whatever you are... What is my purpose?"
+  2. [SPEECH balloon] **Otura**: "Are you even listening...?"
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
+### c3_08  (9:16)
+- **Beat / pose / setting:** the river surface trembling, the reflection of the night sky looks torn open down the middle with a jagged rift of light, city lights distant and muted
+- **Shot:** MEDIUM · **Lighting/mood:** low-key, heavy black ink shadows; gritty dark-horror ink
+- **Characters:** none (environment / FX)
+- **Lettering (in order):**
+  1. [CAPTION box]: "The city went quiet. Not silent, just far away, like somebody turned the whole world down."
+  2. [CAPTION box]: "The water trembled, and for a blink the reflection of the sky looked torn open down the middle. Then it was just the moon again."
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
+### c3_09  (3:4)
+- **Beat / pose / setting:** close-up of teen pulling out one earbud, uneasy wide eyes
+- **Shot:** CLOSE-UP · **Lighting/mood:** low-key, heavy black ink shadows; gritty dark-horror ink
+- **Characters:** Otura (17) `OTURA_LIGHTBRINGER_17.jpg`
+- **Lettering (in order):**
+  1. [THOUGHT balloon]: "What the hell was that... Why does that feel so familiar?"
+  2. [CAPTION box]: "The hum was gone. The city came back, loud as ever. Nothing answered him."
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
+### c3_10  (3:4)
+- **Beat / pose / setting:** an eccentric vampire teen girl jogging up waving behind the boy at the park exit
+- **Shot:** MEDIUM · **Lighting/mood:** low-key, heavy black ink shadows; gritty dark-horror ink
+- **Characters:** Amaya Hasan (17) `AMAYA_HASAN_17.jpg`, Otura (17) `OTURA_LIGHTBRINGER_17.jpg`
+- **Lettering (in order):**
+  1. [SPEECH balloon] **Amaya**: "Otura! Wait up!"
+  2. [SPEECH balloon] **Otura**: "Huh? Oh... Hey Amaya. What are you doing here?"
+  3. [SPEECH balloon] **Amaya**: "Just taking a stroll... figured I'd go to the park while Kudura games at Arkada."
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
+### c3_11  (16:9)
+- **Beat / pose / setting:** the boy and the girl talking on a park path under neon
+- **Shot:** MEDIUM · **Lighting/mood:** neon purple/cyan, wet reflections; gritty dark-horror ink
+- **Characters:** Amaya Hasan (17) `AMAYA_HASAN_17.jpg`, Otura (17) `OTURA_LIGHTBRINGER_17.jpg`
+- **Lettering (in order):**
+  1. [SPEECH balloon] **Otura**: "I see... well you shouldn't be at the park alone this late, Amaya."
+  2. [SPEECH balloon] **Amaya**: "I can handle myself, Otura. Besides, you know Kudura always comes to the rescue if I'm in any trouble!"
+  3. [SPEECH balloon] **Amaya**: "Besides... I'm more worried about you. Why are you out here all by yourself?!"
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
+### c3_12  (16:9)
+- **Beat / pose / setting:** the two walking together down a neon street
+- **Shot:** MEDIUM · **Lighting/mood:** neon purple/cyan, wet reflections; gritty dark-horror ink
+- **Characters:** Amaya Hasan (17) `AMAYA_HASAN_17.jpg`, Otura (17) `OTURA_LIGHTBRINGER_17.jpg`
+- **Lettering (in order):**
+  1. [SPEECH balloon] **Otura**: "This is my favorite place to come to and think... I was just leaving. I'm headed back to The Emporium."
+  2. [SPEECH balloon] **Amaya**: "Can I come along to help? By the time we finish, Kudura should be calling me."
+  3. [SPEECH balloon] **Otura**: "Cool with me, let's go."
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
+### c3_13  (3:4)
+- **Beat / pose / setting:** emporium door swinging open under moonlight, shopkeeper nodding in greeting inside
+- **Shot:** MEDIUM · **Lighting/mood:** cold moonlight; gritty dark-horror ink
+- **Characters:** Yama Amaruk `YAMA_AMARUK_AGE_UNKNOWN.jpg`
+- **Lettering (in order):**
+  1. [CAPTION box]: "Yama's Emporium"
+  2. [SPEECH balloon] **Yama**: "Evenin', children, how are things?"
+  3. [SPEECH balloon] **Otura**: "Hey Yama... Things are well I guess - Amaya is here too!"
+  4. [SPEECH balloon] **Amaya**: "Greetings Mr. Amaruk!"
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
+### c3_14  (3:4)
+- **Beat / pose / setting:** shopkeeper grinning mysteriously holding a stack of ancient books and scrolls
+- **Shot:** MEDIUM · **Lighting/mood:** low-key, heavy black ink shadows; gritty dark-horror ink
+- **Characters:** Yama Amaruk `YAMA_AMARUK_AGE_UNKNOWN.jpg`
+- **Lettering (in order):**
+  1. [SPEECH balloon] **Yama**: "Oh! Otura, never mind the cleaning, I have a few books for you both to read."
+  2. [SPEECH balloon] **Otura**: "Books? Are you kidding...? I don't feel like reading right now."
+  3. [SPEECH balloon] **Yama**: "They're more than just books actually... They're scrolls from ages past, grimoires, mystic texts. The council can't decipher 'em, so they sent them to me..."
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
+### c3_15  (3:4)
+- **Beat / pose / setting:** boy raising an intrigued eyebrow
+- **Shot:** MEDIUM · **Lighting/mood:** low-key, heavy black ink shadows; gritty dark-horror ink
+- **Characters:** Otura (17) `OTURA_LIGHTBRINGER_17.jpg`
+- **Lettering (in order):**
+  1. [SPEECH balloon] **Otura**: "So... It's pretty irresponsible of you to let us have them, isn't it?"
+  2. [SPEECH balloon] **Yama**: "...Eh... Let's just say they're old to someone like myself and new to someone like yourself."
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
+### c3_16  (3:4)
+- **Beat / pose / setting:** the girl touching an ancient dark grimoire with unknown runes, it glows faintly red toward her
+- **Shot:** MEDIUM · **Lighting/mood:** low-key, heavy black ink shadows; gritty dark-horror ink
+- **Characters:** Amaya Hasan (17) `AMAYA_HASAN_17.jpg`
+- **Lettering (in order):**
+  1. [SPEECH balloon] **Amaya**: "It almost feels as if it's calling out to me..."
+  2. [SPEECH balloon] **Yama**: "Well there's a reason for that, Amaya."
+  3. [SPEECH balloon] **Amaya**: "Huh? What do you mean?"
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
+### c3_17  (3:4)
+- **Beat / pose / setting:** close-up of a dark leather vampiric grimoire with crimson runes, shopkeeper behind it
+- **Shot:** CLOSE-UP · **Lighting/mood:** low-key, heavy black ink shadows; gritty dark-horror ink
+- **Characters:** Yama Amaruk `YAMA_AMARUK_AGE_UNKNOWN.jpg`
+- **Lettering (in order):**
+  1. [SPEECH balloon] **Yama**: "That grimoire is the Tome of Damnation, it's a powerful tome of vampiric spells said to have been created by your bloodline, the Hyldryn vampires."
+  2. [SPEECH balloon] **Amaya**: "The Tome of Damnation? That sounds so cool... but I don't understand, it sounds dangerous."
+  3. [SPEECH balloon] **Otura**: "Also, why did the council have this book?"
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
+### c3_18  (16:9)
+- **Beat / pose / setting:** shopkeeper and boy arguing among relics, girl holding the book
+- **Shot:** MEDIUM · **Lighting/mood:** low-key, heavy black ink shadows; gritty dark-horror ink
+- **Characters:** Yama Amaruk `YAMA_AMARUK_AGE_UNKNOWN.jpg`, Otura (17) `OTURA_LIGHTBRINGER_17.jpg`
+- **Lettering (in order):**
+  1. [SPEECH balloon] **Yama**: "It is very dangerous, but you can handle it Amaya, and Otura, what the council does is none of your concern."
+  2. [SPEECH balloon] **Otura**: "Well it just doesn't make much sense to me... This powerful tome and you just hand it over to Amaya like it's nothing..."
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
+### c3_19  (3:4)
+- **Beat / pose / setting:** shopkeeper gesturing explaining
+- **Shot:** MEDIUM · **Lighting/mood:** low-key, heavy black ink shadows; gritty dark-horror ink
+- **Characters:** Yama Amaruk `YAMA_AMARUK_AGE_UNKNOWN.jpg`
+- **Lettering (in order):**
+  1. [SPEECH balloon] **Yama**: "Well, the excavation team got these items from a project in Idol City. The High Council tasked me to sort them, however, I wouldn't be able to decipher that book."
+  2. [SPEECH balloon] **Yama**: "The Tome of Damnation is only able to be read by the Hyldryn bloodline. Amaya is one of the strongest Hyldryn vampires I know... and she's right here!"
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
+### c3_20  (3:4)
+- **Beat / pose / setting:** boy frowning protectively
+- **Shot:** MEDIUM · **Lighting/mood:** low-key, heavy black ink shadows; gritty dark-horror ink
+- **Characters:** Otura (17) `OTURA_LIGHTBRINGER_17.jpg`, Yama Amaruk `YAMA_AMARUK_AGE_UNKNOWN.jpg`
+- **Lettering (in order):**
+  1. [SPEECH balloon] **Otura**: "Well what if she gets hurt, do you even care?"
+  2. [SPEECH balloon] **Yama**: "Of course I do Otura, but I urge you both to trust me."
+  3. [SPEECH balloon] **Amaya**: "Well of course I trust you Mr. Amaruk. Otura is just overthinking things, I'm sure it'll be fine... Thank you for the book!"
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
+### c3_21  (3:4)
+- **Beat / pose / setting:** girl looking at her phone showing no signal inside the shop, faint death-ward symbols on the walls
+- **Shot:** MEDIUM · **Lighting/mood:** low-key, heavy black ink shadows; gritty dark-horror ink
+- **Characters:** Amaya Hasan (17) `AMAYA_HASAN_17.jpg`
+- **Lettering (in order):**
+  1. [SPEECH balloon] **Yama**: "No worries Amaya. By the way, where is your brother Kudura? I also have something I'd like to share with him."
+  2. [SPEECH balloon] **Amaya**: "Oh! You just reminded me! Kudura never called... He's at Arkada!"
+  3. [CAPTION box]: "The Emporium has a ward of death, which nullifies all frequencies outside of the House of Death's."
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
+### c3_22  (16:9)
+- **Beat / pose / setting:** boy and girl heading for the shop door
+- **Shot:** MEDIUM · **Lighting/mood:** low-key, heavy black ink shadows; gritty dark-horror ink
+- **Characters:** Amaya Hasan (17) `AMAYA_HASAN_17.jpg`, Otura (17) `OTURA_LIGHTBRINGER_17.jpg`
+- **Lettering (in order):**
+  1. [SPEECH balloon] **Yama**: "Ah Arkada. Well Otura can walk you back that way so you aren't alone. You should be able to call your brother once you exit The Emporium."
+  2. [SPEECH balloon] **Amaya**: "If it isn't a bother, would you, Otura?"
+  3. [SPEECH balloon] **Otura**: "Of course."
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
+### c3_23  (9:16)
+- **Beat / pose / setting:** the shop door closing; the shopkeeper's grin fading as he stands alone among relics staring at an empty spot on a shelf
+- **Shot:** MEDIUM · **Lighting/mood:** low-key, heavy black ink shadows; gritty dark-horror ink
+- **Characters:** Yama Amaruk `YAMA_AMARUK_AGE_UNKNOWN.jpg`
+- **Lettering (in order):**
+  1. [CAPTION box]: "The door closed behind them, and Yama's grin faded."
+  2. [CAPTION box]: "He stood alone among his relics, staring at the empty spot where the book had been."
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
+
+## CHAPTER 4 · Sibling-Sense
+
+### c4_01  (3:4)
+- **Beat / pose / setting:** girl freezing in shock just outside the emporium door, boy reaching to her
+- **Shot:** MEDIUM · **Lighting/mood:** low-key, heavy black ink shadows; gritty dark-horror ink
+- **Characters:** Amaya Hasan (17) `AMAYA_HASAN_17.jpg`, Otura (17) `OTURA_LIGHTBRINGER_17.jpg`
+- **Lettering (in order):**
+  1. [SPEECH balloon] **Otura**: "Amaya? Are you okay?!"
+  2. [SPEECH balloon] **Amaya**: "Kudura's in trouble!"
+  3. [SPEECH balloon] **Otura**: "Wh-What do you mean?!"
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
+### c4_02  (3:4)
+- **Beat / pose / setting:** close-up of the girl, eyes glowing crimson with sibling-sense, panic
+- **Shot:** CLOSE-UP · **Lighting/mood:** low-key, heavy black ink shadows; gritty dark-horror ink
+- **Characters:** Amaya Hasan (17) `AMAYA_HASAN_17.jpg`
+- **Lettering (in order):**
+  1. [SPEECH balloon] **Amaya**: "I couldn't sense him inside of the Emporium but now that I'm outside I can feel it... My brother needs my help!"
+  2. [SPEECH balloon] **Otura**: "OK, let's get to Kudura now, can you lead the way?!"
+  3. [SPEECH balloon] **Amaya**: "Follow me, I can sense him in pain!"
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
+### c4_03  (16:9)
+- **Beat / pose / setting:** both teens sprinting through neon streets toward a gaming cafe sign
+- **Shot:** MEDIUM · **Lighting/mood:** neon purple/cyan, wet reflections; gritty dark-horror ink
+- **Characters:** Amaya Hasan (17) `AMAYA_HASAN_17.jpg`, Otura (17) `OTURA_LIGHTBRINGER_17.jpg`
+- **Lettering (in order):**
+  1. [CAPTION box]: "Amaya and Otura rush to Arkada. Her senses lead her to a dark alleyway near Arkada."
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
+### c4_04  (9:16) · ACTION
+- **Beat / pose / setting:** dark alleyway, a vampire-assassin punching a beaten teen boy against a wall, rain
+- **Shot:** MEDIUM · **Lighting/mood:** rain, wet sheen; gritty dark-horror ink
+- **Characters:** Draculian Assassin `DRACULIAN_ASSASSIN_AGE_UNKNOWN.jpg`, Kudura Hasan (17) `KUDURA_HASAN_17.jpg`
+- **GORE (full intended):** Uncensored. Show wounds, blood spray, and impact damage at full horror intensity, with heavy speed lines and smear frames. Do not soften to match the reference.
+- **Lettering (in order):**
+  1. [SPEECH balloon] **Assassin**: "WHERE IS IT?"
+  2. [SFX]: "PUNCH"
+  3. [SPEECH balloon] **Assassin**: "TELL ME WHAT YOU KNOW YOU BRAT!"
+  4. [SFX]: "PUNCH. PUNCH. KICK."
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
+### c4_05  (16:9)
+- **Beat / pose / setting:** the girl and boy at the alley mouth shouting
+- **Shot:** MEDIUM · **Lighting/mood:** low-key, heavy black ink shadows; gritty dark-horror ink
+- **Characters:** Amaya Hasan (17) `AMAYA_HASAN_17.jpg`, Otura (17) `OTURA_LIGHTBRINGER_17.jpg`
+- **Lettering (in order):**
+  1. [SPEECH balloon] **Amaya**: "HEY STOP THAT! THAT'S MY BROTHER, LEAVE HIM ALONE!"
+  2. [SPEECH balloon] **Otura**: "Hey, get away from him right now!"
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
+### c4_06  (3:4) · ACTION
+- **Beat / pose / setting:** teen boy slumped on the ground badly beaten bloody and bruised
+- **Shot:** MEDIUM · **Lighting/mood:** low-key, heavy black ink shadows; gritty dark-horror ink
+- **Characters:** Kudura Hasan (17) `KUDURA_HASAN_17.jpg`
+- **GORE (full intended):** Uncensored. Show wounds, blood spray, and impact damage at full horror intensity, with heavy speed lines and smear frames. Do not soften to match the reference.
+- **Lettering (in order):**
+  1. [CAPTION box]: "Kudura is badly beaten, bloody and bruised."
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
+### c4_07  (3:4) · ACTION
+- **Beat / pose / setting:** assassin turning with a cruel smirk, blade drawn
+- **Shot:** MEDIUM · **Lighting/mood:** low-key, heavy black ink shadows; gritty dark-horror ink
+- **Characters:** Draculian Assassin `DRACULIAN_ASSASSIN_AGE_UNKNOWN.jpg`
+- **GORE (full intended):** Uncensored. Show wounds, blood spray, and impact damage at full horror intensity, with heavy speed lines and smear frames. Do not soften to match the reference.
+- **Lettering (in order):**
+  1. [SPEECH balloon] **Assassin**: "This must be the sister... but who is this other runt?"
+  2. [SPEECH balloon] **Assassin**: "They didn't say we'd be killing family and friends tonight..."
+  3. [SPEECH balloon] **Assassin**: "Ah what's it matter anyway... prepare to die!"
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
+### c4_08  (16:9) · ACTION
+- **Beat / pose / setting:** the assassin pouncing at the teens, the shopkeeper appearing from nowhere deflecting with a sword, sparks
+- **Shot:** MEDIUM · **Lighting/mood:** low-key, heavy black ink shadows; gritty dark-horror ink
+- **Characters:** Draculian Assassin `DRACULIAN_ASSASSIN_AGE_UNKNOWN.jpg`, Yama Amaruk `YAMA_AMARUK_AGE_UNKNOWN.jpg`
+- **GORE (full intended):** Uncensored. Show wounds, blood spray, and impact damage at full horror intensity, with heavy speed lines and smear frames. Do not soften to match the reference.
+- **Lettering (in order):**
+  1. [CAPTION box]: "Yama appears out of what seems to be nowhere."
+  2. [SFX]: "CLANG"
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
+### c4_09  (9:16) · ACTION
+- **Beat / pose / setting:** fierce sword duel in the moonlit alley, blur of speed, long shadows
+- **Shot:** MEDIUM · **Lighting/mood:** cold moonlight; gritty dark-horror ink
+- **Characters:** Yama Amaruk `YAMA_AMARUK_AGE_UNKNOWN.jpg`, Draculian Assassin `DRACULIAN_ASSASSIN_AGE_UNKNOWN.jpg`
+- **GORE (full intended):** Uncensored. Show wounds, blood spray, and impact damage at full horror intensity, with heavy speed lines and smear frames. Do not soften to match the reference.
+- **Lettering (in order):**
+  1. [CAPTION box]: "Yama's eyes gleamed with a fierce intensity as he countered the assassin's attack, his movements a blur of speed and precision."
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
+### c4_10  (3:4)
+- **Beat / pose / setting:** boy staring wide-eyed in awe
+- **Shot:** WIDE · **Lighting/mood:** low-key, heavy black ink shadows; gritty dark-horror ink
+- **Characters:** Otura (17) `OTURA_LIGHTBRINGER_17.jpg`
+- **Lettering (in order):**
+  1. [CAPTION box]: "Otura's eyes widened in awe of Yama's strength. This is the first time he's seen Yama fight with killing intent."
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
+### c4_11  (16:9) · ACTION
+- **Beat / pose / setting:** sword thrown impaling the fleeing assassin's calf to the ground
+- **Shot:** MEDIUM · **Lighting/mood:** low-key, heavy black ink shadows; gritty dark-horror ink
+- **Characters:** Yama Amaruk `YAMA_AMARUK_AGE_UNKNOWN.jpg`, Draculian Assassin `DRACULIAN_ASSASSIN_AGE_UNKNOWN.jpg`
+- **GORE (full intended):** Uncensored. Show wounds, blood spray, and impact damage at full horror intensity, with heavy speed lines and smear frames. Do not soften to match the reference.
+- **Lettering (in order):**
+  1. [SPEECH balloon] **Assassin**: "Arghhh! You bastard!"
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
+### c4_12  (3:4) · ACTION
+- **Beat / pose / setting:** shopkeeper looming over the pinned assassin, cold eyes
+- **Shot:** MEDIUM · **Lighting/mood:** low-key, heavy black ink shadows; gritty dark-horror ink
+- **Characters:** Yama Amaruk `YAMA_AMARUK_AGE_UNKNOWN.jpg`
+- **GORE (full intended):** Uncensored. Show wounds, blood spray, and impact damage at full horror intensity, with heavy speed lines and smear frames. Do not soften to match the reference.
+- **Lettering (in order):**
+  1. [SPEECH balloon] **Yama**: "I'll only ask you this once, you have one chance to answer, don't blow it... Who are you and why did you attack these children?"
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
+### c4_13  (3:4) · ACTION
+- **Beat / pose / setting:** assassin spitting blood, defiant grin
+- **Shot:** MEDIUM · **Lighting/mood:** low-key, heavy black ink shadows; gritty dark-horror ink
+- **Characters:** Draculian Assassin `DRACULIAN_ASSASSIN_AGE_UNKNOWN.jpg`
+- **GORE (full intended):** Uncensored. Show wounds, blood spray, and impact damage at full horror intensity, with heavy speed lines and smear frames. Do not soften to match the reference.
+- **Lettering (in order):**
+  1. [SPEECH balloon] **Assassin**: "Why would I tell you anything, you'll kill me anyway! Besides, our mission is only a partial failure with my death..."
+  2. [SPEECH balloon] **Yama**: "Our? So there's more of you... Of course."
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
+### c4_14  (9:16) · ACTION
+- **Beat / pose / setting:** shopkeeper absorbing glowing spirit power wisps from a fallen silhouette, beheading off-panel implied by sword swing silhouette
+- **Shot:** MEDIUM · **Lighting/mood:** low-key, heavy black ink shadows; gritty dark-horror ink
+- **Characters:** Yama Amaruk `YAMA_AMARUK_AGE_UNKNOWN.jpg`
+- **GORE (full intended):** Uncensored. Show wounds, blood spray, and impact damage at full horror intensity, with heavy speed lines and smear frames. Do not soften to match the reference.
+- **Lettering (in order):**
+  1. [CAPTION box]: "Yama quickly beheads the Assassin and absorbs his spirit power."
+  2. [THOUGHT balloon]: "A 400-year-old Draculian assassin... what did he mean by their mission is only a partial failure?"
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
+### c4_15  (3:4)
+- **Beat / pose / setting:** girl kneeling at her beaten brother, crying for help
+- **Shot:** MEDIUM · **Lighting/mood:** low-key, heavy black ink shadows; gritty dark-horror ink
+- **Characters:** Amaya Hasan (17) `AMAYA_HASAN_17.jpg`, Kudura Hasan (17) `KUDURA_HASAN_17.jpg`
+- **Lettering (in order):**
+  1. [SPEECH balloon] **Amaya**: "Mr. Amaruk, help! Kudura is badly injured!"
+  2. [SPEECH balloon] **Otura**: "Can you help him?"
+  3. [SPEECH balloon] **Yama**: "Please step away from him."
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
+### c4_16  (9:16)
+- **Beat / pose / setting:** shopkeeper weaving glowing patterns with his fingers, channeling spirit power into the wounded boy
+- **Shot:** MEDIUM · **Lighting/mood:** low-key, heavy black ink shadows; gritty dark-horror ink
+- **Characters:** Yama Amaruk `YAMA_AMARUK_AGE_UNKNOWN.jpg`, Kudura Hasan (17) `KUDURA_HASAN_17.jpg`
+- **Lettering (in order):**
+  1. [SPEECH balloon] **Yama**: "This is a portion of the power from that assassin, I'm transferring it to you, Kudura."
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
+### c4_17  (3:4) · ACTION
+- **Beat / pose / setting:** the wounded boy gasping as red energy heals his wounds, veins glowing
+- **Shot:** MEDIUM · **Lighting/mood:** low-key, heavy black ink shadows; gritty dark-horror ink
+- **Characters:** Kudura Hasan (17) `KUDURA_HASAN_17.jpg`
+- **GORE (full intended):** Uncensored. Show wounds, blood spray, and impact damage at full horror intensity, with heavy speed lines and smear frames. Do not soften to match the reference.
+- **Lettering (in order):**
+  1. [CAPTION box]: "Kudura's chest heaved with a deep, shuddering breath as he felt his strength and vitality return, multiplied manyfold."
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
+### c4_18  (3:4)
+- **Beat / pose / setting:** healed boy gazing up gratefully, shopkeeper hand on his shoulder, warm smile
+- **Shot:** MEDIUM · **Lighting/mood:** low-key, heavy black ink shadows; gritty dark-horror ink
+- **Characters:** Kudura Hasan (17) `KUDURA_HASAN_17.jpg`, Yama Amaruk `YAMA_AMARUK_AGE_UNKNOWN.jpg`
+- **Lettering (in order):**
+  1. [SPEECH balloon] **Kudura**: "Yama... thank you."
+  2. [SPEECH balloon] **Kudura**: "I owe you a debt I fear I can never fully repay."
+  3. [SPEECH balloon] **Yama**: "You owe me nothing, Kudura."
+  4. [SPEECH balloon] **Yama**: "I only want to see you, Amaya, and Otura safe. That is all the repayment I need."
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
+### c4_19  (16:9)
+- **Beat / pose / setting:** group gathering in the alley, the boy with indigo eyes striding to join
+- **Shot:** MEDIUM · **Lighting/mood:** low-key, heavy black ink shadows; gritty dark-horror ink
+- **Characters:** Yama Amaruk `YAMA_AMARUK_AGE_UNKNOWN.jpg`, Otura (17) `OTURA_LIGHTBRINGER_17.jpg`
+- **Lettering (in order):**
+  1. [SPEECH balloon] **Yama**: "Otura, we're taking them home."
+  2. [SPEECH balloon] **Otura**: "Of course, let's go."
+  3. [SPEECH balloon] **Otura**: "Yama, how'd you get here so quickly?"
+  4. [SPEECH balloon] **Yama**: "I teleported, but I don't have enough power right now to teleport all of us. We'll have to walk from here."
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
+### c4_20  (3:4)
+- **Beat / pose / setting:** siblings walking together, girl supporting her brother
+- **Shot:** MEDIUM · **Lighting/mood:** low-key, heavy black ink shadows; gritty dark-horror ink
+- **Characters:** Kudura Hasan (17) `KUDURA_HASAN_17.jpg`, Amaya Hasan (17) `AMAYA_HASAN_17.jpg`
+- **Lettering (in order):**
+  1. [SPEECH balloon] **Kudura**: "It's not a problem, we're used to this walk... and I'm feeling great now thanks to you."
+  2. [SPEECH balloon] **Amaya**: "Kudura... I'm so glad you're okay, but why was that maniac after you?"
+  3. [SPEECH balloon] **Kudura**: "I'm not sure... I was leaving Arkada and he jumped me by surprise, or else I would've had him."
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
+### c4_21  (3:4)
+- **Beat / pose / setting:** girl clutching the book bag, worried look to shopkeeper
+- **Shot:** MEDIUM · **Lighting/mood:** low-key, heavy black ink shadows; gritty dark-horror ink
+- **Characters:** Amaya Hasan (17) `AMAYA_HASAN_17.jpg`, Yama Amaruk `YAMA_AMARUK_AGE_UNKNOWN.jpg`
+- **Lettering (in order):**
+  1. [SPEECH balloon] **Amaya**: "A book? Yama...? Could it be he was looking for the Tome of Damnation?"
+  2. [SPEECH balloon] **Yama**: "It seems likely. They seem to sense that the book is in Empire City, that means I must protect your family, as you will all be a target being of Hyldryn bloodline."
+  3. [SPEECH balloon] **Otura**: "I knew it wasn't a good idea to give Amaya that book!"
+  4. [SPEECH balloon] **Yama**: "Quiet Otura, now isn't the time."
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
+### c4_22  (3:4)
+- **Beat / pose / setting:** the boy brooding
+- **Shot:** MEDIUM · **Lighting/mood:** low-key, heavy black ink shadows; gritty dark-horror ink
+- **Characters:** Kudura Hasan (17) `KUDURA_HASAN_17.jpg`
+- **Lettering (in order):**
+  1. [SPEECH balloon] **Kudura**: "This book... Why do they want it so bad?"
+  2. [SPEECH balloon] **Yama**: "It holds great power to vampires and even greater power to Hyldryn vampires."
+  3. [SPEECH balloon] **Amaya**: "Kudura... our parents could be in danger..."
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
+### c4_23  (16:9)
+- **Beat / pose / setting:** wide shot of the dark alleyway, four small figures, heavy silence, distant city hum
+- **Shot:** WIDE · **Lighting/mood:** low-key, heavy black ink shadows; gritty dark-horror ink
+- **Characters:** none (environment / FX)
+- **Lettering (in order):**
+  1. [CAPTION box]: "The cool night air suddenly feels stifling. A heavy silence falls over the group, broken only by the distant, rhythmic hum of the city."
+  2. [SFX]: "WEE-OO-WEE-OO-WEE-OO"
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
+### c4_24  (3:4)
+- **Beat / pose / setting:** close-up of the boy, eyes widening in realization
+- **Shot:** CLOSE-UP · **Lighting/mood:** low-key, heavy black ink shadows; gritty dark-horror ink
+- **Characters:** Kudura Hasan (17) `KUDURA_HASAN_17.jpg`
+- **Lettering (in order):**
+  1. [SPEECH balloon] **Kudura**: "I have this terrible feeling..."
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
+### c4_25  (3:4)
+- **Beat / pose / setting:** girl looking up at the sky above distant buildings glowing faint unnatural orange
+- **Shot:** MEDIUM · **Lighting/mood:** low-key, heavy black ink shadows; gritty dark-horror ink
+- **Characters:** Amaya Hasan (17) `AMAYA_HASAN_17.jpg`
+- **Lettering (in order):**
+  1. [SPEECH balloon] **Amaya**: "I can feel it too... The direction of those sirens... Elmwood Avenue!"
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
+### c4_26  (9:16)
+- **Beat / pose / setting:** cop cars and firetrucks speeding past the alley in a blur of red and blue; the siblings sprinting after them, shopkeeper and boy behind
+- **Shot:** MEDIUM · **Lighting/mood:** firelight orange, embers, emergency red/blue; gritty dark-horror ink
+- **Characters:** Amaya Hasan (17) `AMAYA_HASAN_17.jpg`, Kudura Hasan (17) `KUDURA_HASAN_17.jpg`
+- **Lettering (in order):**
+  1. [SPEECH balloon] **Amaya**: "We have to get home now!"
+  2. [SPEECH balloon] **Yama**: "Hold on! Stay with me, it's not safe!"
+  3. [CAPTION box]: "Yama and Otura sprint after them into the chaos."
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
+
+## CHAPTER 5 · Ashes and Echoes · Elmwood Avenue
+
+### c5_01  (9:16)
+- **Beat / pose / setting:** a suburban home engulfed in a raging blaze at night, thick smoke, firetrucks
+- **Shot:** MEDIUM · **Lighting/mood:** firelight orange, embers; gritty dark-horror ink
+- **Characters:** none (environment / FX)
+- **Lettering (in order):**
+  1. [CAPTION box]: "The night air on Elmwood Avenue was thick with smoke, illuminated by the fiery blaze that engulfed a home in its destructive embrace."
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
+### c5_02  (3:4)
+- **Beat / pose / setting:** fire chief stepping out of his vehicle commanding firefighters
+- **Shot:** MEDIUM · **Lighting/mood:** firelight orange, embers; gritty dark-horror ink
+- **Characters:** Zander Mendez `ZANDER_MENDEZ_AGE_UNKNOWN.jpg`
+- **Lettering (in order):**
+  1. [SPEECH balloon] **Chief Mendez**: "Evacuate the area! Get everyone to safety and establish a perimeter. We need to contain this before it spreads any further!"
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
+### c5_03  (3:4)
+- **Beat / pose / setting:** female inspector driving fast at night answering her phone, city lights blurring
+- **Shot:** MEDIUM · **Lighting/mood:** low-key, heavy black ink shadows; gritty dark-horror ink
+- **Characters:** Eva Vanglory `EVA_VANGLORY_AGE_UNKNOWN.jpg`
+- **Lettering (in order):**
+  1. [SPEECH balloon] **Vanglory**: "Are you sure?... Hmm, that's interesting. I'll keep that in mind. I'll report back soon, bye."
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
+### c5_04  (16:9)
+- **Beat / pose / setting:** inspector and fire chief talking before the burning house
+- **Shot:** MEDIUM · **Lighting/mood:** firelight orange, embers; gritty dark-horror ink
+- **Characters:** Eva Vanglory `EVA_VANGLORY_AGE_UNKNOWN.jpg`, Zander Mendez `ZANDER_MENDEZ_AGE_UNKNOWN.jpg`
+- **Lettering (in order):**
+  1. [SPEECH balloon] **Chief Mendez**: "This one's a mess, Vanglory, it's been a real challenge to contain."
+  2. [SPEECH balloon] **Vanglory**: "Always the case with fires like these, Chief."
+  3. [SPEECH balloon] **Chief Mendez**: "Agreed, hopefully there's no casualties..."
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
+### c5_05  (3:4)
+- **Beat / pose / setting:** inspector speaking low, confidential
+- **Shot:** MEDIUM · **Lighting/mood:** low-key, heavy black ink shadows; gritty dark-horror ink
+- **Characters:** Eva Vanglory `EVA_VANGLORY_AGE_UNKNOWN.jpg`
+- **Lettering (in order):**
+  1. [SPEECH balloon] **Vanglory**: "I hope so too, I got a call on my way here. I received intel that this is the home of the last of the Hyldryn bloodline."
+  2. [SPEECH balloon] **Chief Mendez**: "Wow, Hyldryn vampires right here in Empire City? That's pretty crazy."
+  3. [SPEECH balloon] **Vanglory**: "Yeah, keep this intel to yourself for now... We need to pray there's no casualties here, this family is basically royalty."
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
+### c5_06  (16:9)
+- **Beat / pose / setting:** scorched ruins with one study room oddly untouched by flames, inspector and chief staring
+- **Shot:** MEDIUM · **Lighting/mood:** firelight orange; gritty dark-horror ink
+- **Characters:** Eva Vanglory `EVA_VANGLORY_AGE_UNKNOWN.jpg`, Zander Mendez `ZANDER_MENDEZ_AGE_UNKNOWN.jpg`
+- **Lettering (in order):**
+  1. [SPEECH balloon] **Vanglory**: "Look at this, Chief. An entire section of the house seems to have escaped the fire's wrath. It's like the flames deliberately avoided it."
+  2. [SPEECH balloon] **Chief Mendez**: "That's unlike any fire I've seen. It's as if this area was protected by some force."
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
+### c5_07  (3:4)
+- **Beat / pose / setting:** inspector crouching by a charred silhouette under a sheet in ash, an emptied gem amulet beside it, no gore
+- **Shot:** MEDIUM · **Lighting/mood:** low-key, heavy black ink shadows; gritty dark-horror ink
+- **Characters:** Eva Vanglory `EVA_VANGLORY_AGE_UNKNOWN.jpg`
+- **Lettering (in order):**
+  1. [SPEECH balloon] **Vanglory**: "Chief, we've got a body here, unidentifiable, and look, an emptied gem amulet. This situation just took a darker turn."
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
+### c5_08  (3:4)
+- **Beat / pose / setting:** chief and inspector grim faces lit by embers
+- **Shot:** MEDIUM · **Lighting/mood:** low-key, heavy black ink shadows; gritty dark-horror ink
+- **Characters:** Zander Mendez `ZANDER_MENDEZ_AGE_UNKNOWN.jpg`, Eva Vanglory `EVA_VANGLORY_AGE_UNKNOWN.jpg`
+- **Lettering (in order):**
+  1. [SPEECH balloon] **Chief Mendez**: "We need to get to the bottom of this, Inspector. Were they murdered, is this a robbery or arson?"
+  2. [SPEECH balloon] **Vanglory**: "Trust me we'll thoroughly investigate this... I assume this is one of the family members, but where are the rest of them?"
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
+### c5_09  (16:9)
+- **Beat / pose / setting:** siblings arriving at the burning house, red and blue lights on faces, boy surging forward, shopkeeper's arm catching him across the chest
+- **Shot:** MEDIUM · **Lighting/mood:** emergency red/blue; gritty dark-horror ink
+- **Characters:** Amaya Hasan (17) `AMAYA_HASAN_17.jpg`, Kudura Hasan (17) `KUDURA_HASAN_17.jpg`, Yama Amaruk `YAMA_AMARUK_AGE_UNKNOWN.jpg`
+- **Lettering (in order):**
+  1. [SPEECH balloon] **Amaya**: "No..."
+  2. [SPEECH balloon] **Kudura**: "MOM! DAD!"
+  3. [SPEECH balloon] **Yama**: "Wait!"
+  4. [SPEECH balloon] **Yama**: "You can't."
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
+### c5_10  (3:4)
+- **Beat / pose / setting:** close-up of the boy frozen, eyes wide, pupils dilated in terror, roaring flames reflected in his eyes
+- **Shot:** CLOSE-UP · **Lighting/mood:** firelight orange; gritty dark-horror ink
+- **Characters:** Otura (17) `OTURA_LIGHTBRINGER_17.jpg`
+- **Lettering (in order):**
+  1. [CAPTION box]: "The acrid smell of smoke hit Otura like a physical blow."
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
+### c5_11  (3:4)
+- **Beat / pose / setting:** flashback glimpse: a blurred fiery child's bedroom, a melted door handle, distorted red
+- **Shot:** MEDIUM · **Lighting/mood:** low-key, heavy black ink shadows; gritty dark-horror ink
+- **Characters:** none (environment / FX)
+- **Lettering (in order):**
+  1. [THOUGHT balloon]: "Mommy! What's going on?! Help me I'm scared!! It's so hot..."
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
+### c5_12  (3:4)
+- **Beat / pose / setting:** teen stumbling backward clutching his chest, gasping
+- **Shot:** MEDIUM · **Lighting/mood:** low-key, heavy black ink shadows; gritty dark-horror ink
+- **Characters:** Otura (17) `OTURA_LIGHTBRINGER_17.jpg`
+- **Lettering (in order):**
+  1. [CAPTION box]: "A phantom pain rips through his lungs. He can hear a woman's muffled, agonizing screams echoing in his mind, a memory that wasn't supposed to be there."
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
+### c5_13  (16:9)
+- **Beat / pose / setting:** the siblings' devastated faces illuminated by fire
+- **Shot:** MEDIUM · **Lighting/mood:** firelight orange, embers; gritty dark-horror ink
+- **Characters:** Amaya Hasan (17) `AMAYA_HASAN_17.jpg`, Kudura Hasan (17) `KUDURA_HASAN_17.jpg`
+- **Lettering (in order):**
+  1. [CAPTION box]: "The phantom terror slowly forges into a heavy, suffocating vow. He couldn't let anyone else burn."
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
+### c5_14  (3:4)
+- **Beat / pose / setting:** inspector striding toward the group, all business
+- **Shot:** MEDIUM · **Lighting/mood:** low-key, heavy black ink shadows; gritty dark-horror ink
+- **Characters:** Eva Vanglory `EVA_VANGLORY_AGE_UNKNOWN.jpg`
+- **Lettering (in order):**
+  1. [SPEECH balloon] **Vanglory**: "This is an active scene, I need you all to stay behind the perimeter."
+  2. [SPEECH balloon] **Vanglory**: "Are you... the residents?"
+  3. [SPEECH balloon] **Yama**: "I'll handle this."
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
+### c5_15  (3:4)
+- **Beat / pose / setting:** shopkeeper facing the inspector, ancient weary eyes
+- **Shot:** MEDIUM · **Lighting/mood:** low-key, heavy black ink shadows; gritty dark-horror ink
+- **Characters:** Yama Amaruk `YAMA_AMARUK_AGE_UNKNOWN.jpg`
+- **Lettering (in order):**
+  1. [SPEECH balloon] **Yama**: "I'm Yama Amaruk, a member of the High Council, this is the home of council members Alia and Eldyn Hasan, these are their children. I came to ensure the safety of this family."
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
+### c5_16  (16:9)
+- **Beat / pose / setting:** inspector stepping into his space, hand near holstered weapon, unintimidated
+- **Shot:** MEDIUM · **Lighting/mood:** low-key, heavy black ink shadows; gritty dark-horror ink
+- **Characters:** Eva Vanglory `EVA_VANGLORY_AGE_UNKNOWN.jpg`, Yama Amaruk `YAMA_AMARUK_AGE_UNKNOWN.jpg`
+- **Lettering (in order):**
+  1. [SPEECH balloon] **Vanglory**: ""Yama... Amaruk." My intel mentioned this family was important. It didn't mention 'associates' showing up to my crime scenes giving orders."
+  2. [SPEECH balloon] **Vanglory**: "High Council or not, you're in my city, Amaruk. This is an active investigation of a fatal fire."
+  3. [SPEECH balloon] **Yama**: "This situation is far more complex than your investigation can handle, Inspector. What have you found?"
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
+### c5_17  (3:4)
+- **Beat / pose / setting:** inspector holding up a small evidence bag with a blackened empty gem amulet
+- **Shot:** MEDIUM · **Lighting/mood:** low-key, heavy black ink shadows; gritty dark-horror ink
+- **Characters:** Eva Vanglory `EVA_VANGLORY_AGE_UNKNOWN.jpg`
+- **Lettering (in order):**
+  1. [SPEECH balloon] **Vanglory**: "One body. Charred beyond recognition. We found this beside it."
+  2. [SPEECH balloon] **Vanglory**: "And there's a section of the house, a study, completely untouched by the flames. As if it was shielded."
+  3. [SPEECH balloon] **Vanglory**: "Yama? Do you know what this means?"
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
+### c5_18  (3:4)
+- **Beat / pose / setting:** shopkeeper's jaw tightening, looking back at the teens
+- **Shot:** MEDIUM · **Lighting/mood:** low-key, heavy black ink shadows; gritty dark-horror ink
+- **Characters:** Yama Amaruk `YAMA_AMARUK_AGE_UNKNOWN.jpg`
+- **Lettering (in order):**
+  1. [CAPTION box]: "He knew what that amulet was. It belonged to Eldyn."
+  2. [SPEECH balloon] **Yama**: "No, but whatever you find out, please contact me immediately!"
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
+### c5_19  (3:4)
+- **Beat / pose / setting:** shopkeeper kneeling to meet the siblings' gaze
+- **Shot:** MEDIUM · **Lighting/mood:** low-key, heavy black ink shadows; gritty dark-horror ink
+- **Characters:** Yama Amaruk `YAMA_AMARUK_AGE_UNKNOWN.jpg`, Amaya Hasan (17) `AMAYA_HASAN_17.jpg`, Kudura Hasan (17) `KUDURA_HASAN_17.jpg`
+- **Lettering (in order):**
+  1. [SPEECH balloon] **Yama**: "Amaya, Kudura... there was an attack."
+  2. [SPEECH balloon] **Kudura**: "Are they...?"
+  3. [SPEECH balloon] **Yama**: "Listen to me... It's a lot to take in, but we need to keep this to ourselves right now, your father... He used his power to protect your mother. The body they found... it was his, he's gone."
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
+### c5_20  (3:4)
+- **Beat / pose / setting:** girl crumpling with a sob, the boy catching her, she clutches a bag with the book
+- **Shot:** MEDIUM · **Lighting/mood:** low-key, heavy black ink shadows; gritty dark-horror ink
+- **Characters:** Amaya Hasan (17) `AMAYA_HASAN_17.jpg`, Otura (17) `OTURA_LIGHTBRINGER_17.jpg`
+- **Lettering (in order):**
+  1. [CAPTION box]: "A strangled sob escaped Amaya's lips, and she crumpled, her legs giving way. Otura caught her."
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
+### c5_21  (3:4)
+- **Beat / pose / setting:** boy standing rigid, eyes glowing faint crimson, staring into the inferno
+- **Shot:** MEDIUM · **Lighting/mood:** low-key, heavy black ink shadows; gritty dark-horror ink
+- **Characters:** Kudura Hasan (17) `KUDURA_HASAN_17.jpg`
+- **Lettering (in order):**
+  1. [CAPTION box]: "His fists clenched. He didn't cry. His eyes, glowing with a faint crimson light, stared into the inferno that had been his home."
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
+### c5_22  (3:4)
+- **Beat / pose / setting:** boy apologizing, shopkeeper snapping head up
+- **Shot:** MEDIUM · **Lighting/mood:** low-key, heavy black ink shadows; gritty dark-horror ink
+- **Characters:** Otura (17) `OTURA_LIGHTBRINGER_17.jpg`, Yama Amaruk `YAMA_AMARUK_AGE_UNKNOWN.jpg`
+- **Lettering (in order):**
+  1. [SPEECH balloon] **Otura**: "This... this was because of the book... I shouldn't have let you take it. I'm so sorry."
+  2. [SPEECH balloon] **Yama**: "No, Otura."
+  3. [SPEECH balloon] **Yama**: "This is not your fault. The forces that did this were set in motion long before tonight. You are all targets now, not because of what you have, but because of who you are."
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
+### c5_23  (9:16)
+- **Beat / pose / setting:** shopkeeper scanning rooftops across the street, a faint malevolent shadow on a roof edge
+- **Shot:** MEDIUM · **Lighting/mood:** low-key, heavy black ink shadows; gritty dark-horror ink
+- **Characters:** Yama Amaruk `YAMA_AMARUK_AGE_UNKNOWN.jpg`
+- **Lettering (in order):**
+  1. [SPEECH balloon] **Yama**: "We're leaving. The ones who did this... they're still around here..."
+  2. [SPEECH balloon] **Vanglory**: "What are you talking about?"
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
+### c5_24  (16:9)
+- **Beat / pose / setting:** inspector blocking his path, shopkeeper's aura flaring, she steps back
+- **Shot:** MEDIUM · **Lighting/mood:** low-key, heavy black ink shadows; gritty dark-horror ink
+- **Characters:** Yama Amaruk `YAMA_AMARUK_AGE_UNKNOWN.jpg`, Eva Vanglory `EVA_VANGLORY_AGE_UNKNOWN.jpg`
+- **Lettering (in order):**
+  1. [SPEECH balloon] **Yama**: "The mission had two parts - Acquire the book and eliminate the bloodline. They only partially succeeded in eliminating the bloodline."
+  2. [SPEECH balloon] **Yama**: "You need to evacuate everyone from this area. My priority is to protect the survivors."
+  3. [SPEECH balloon] **Vanglory**: "I can't just let you walk away with the victims! They are material witnesses. If there's an active threat, my officers need to secure them..."
+  4. [SPEECH balloon] **Yama**: "Your officers will die, Inspector!"
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
+### c5_25  (3:4)
+- **Beat / pose / setting:** shopkeeper with dark aura, commanding
+- **Shot:** MEDIUM · **Lighting/mood:** low-key, heavy black ink shadows; gritty dark-horror ink
+- **Characters:** Yama Amaruk `YAMA_AMARUK_AGE_UNKNOWN.jpg`
+- **Lettering (in order):**
+  1. [SPEECH balloon] **Yama**: "Listen to me. There is no time. This exceeds the capability of your police. It is imperative that you allow the High Council and Enforcers to take care of this matter before more of your people burn."
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
+### c5_26  (3:4)
+- **Beat / pose / setting:** inspector clicking her shoulder radio, fierce glare
+- **Shot:** MEDIUM · **Lighting/mood:** low-key, heavy black ink shadows; gritty dark-horror ink
+- **Characters:** Eva Vanglory `EVA_VANGLORY_AGE_UNKNOWN.jpg`
+- **Lettering (in order):**
+  1. [SPEECH balloon] **Vanglory**: "Chief Mendez, pull the men back. Establish a wider perimeter. We might have hostiles."
+  2. [SPEECH balloon] **Vanglory**: "Get them out of here. But if you think I'm dropping this, you're dead wrong."
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
+### c5_27  (3:4)
+- **Beat / pose / setting:** boy casting one last look at the smoldering skeleton of his home, fire burning in his eyes
+- **Shot:** MEDIUM · **Lighting/mood:** firelight orange, embers; gritty dark-horror ink
+- **Characters:** Kudura Hasan (17) `KUDURA_HASAN_17.jpg`
+- **Lettering (in order):**
+  1. [CAPTION box]: "A silent vow was forged in that moment, a promise of vengeance written in ash and rage."
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
+### c5_28  (9:16)
+- **Beat / pose / setting:** four figures walking away into drenched neon streets, flashing lights behind them, back view
+- **Shot:** MEDIUM · **Lighting/mood:** neon purple/cyan, wet reflections; gritty dark-horror ink
+- **Characters:** Yama Amaruk `YAMA_AMARUK_AGE_UNKNOWN.jpg`, Otura (17) `OTURA_LIGHTBRINGER_17.jpg`, Amaya Hasan (17) `AMAYA_HASAN_17.jpg`, Kudura Hasan (17) `KUDURA_HASAN_17.jpg`
+- **Lettering (in order):**
+  1. [CAPTION box]: "They were no longer just a guardian and his ward, or a boy and his friends."
+  2. [CAPTION box]: "They were the broken remnants of two families, now fused by tragedy into something new, something harder, and something far more dangerous."
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
+
+## CHAPTER 6 · The Weight of Sanctuary · The Emporium: interior
+
+### c6_01  (16:9)
+- **Beat / pose / setting:** heavy emporium door swinging shut, four silhouettes inside, incense smoke
+- **Shot:** MEDIUM · **Lighting/mood:** low-key, heavy black ink shadows; gritty dark-horror ink
+- **Characters:** none (environment / FX)
+- **Lettering (in order):**
+  1. [CAPTION box]: "The heavy door of the Emporium swings shut, sealing the four of them inside."
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
+### c6_02  (3:4)
+- **Beat / pose / setting:** girl frozen with vacant eyes, a bag slipping from her numb fingers to the floor
+- **Shot:** MEDIUM · **Lighting/mood:** low-key, heavy black ink shadows; gritty dark-horror ink
+- **Characters:** Amaya Hasan (17) `AMAYA_HASAN_17.jpg`
+- **Lettering (in order):**
+  1. [CAPTION box]: "The bag containing the Tome of Damnation slips from her numb fingers, hitting the floor with a soft thud."
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
+### c6_03  (3:4)
+- **Beat / pose / setting:** girl collapsing in sobs, the boy kneeling and wrapping his arms around her
+- **Shot:** MEDIUM · **Lighting/mood:** low-key, heavy black ink shadows; gritty dark-horror ink
+- **Characters:** Amaya Hasan (17) `AMAYA_HASAN_17.jpg`, Otura (17) `OTURA_LIGHTBRINGER_17.jpg`
+- **Lettering (in order):**
+  1. [CAPTION box]: "A gut-wrenching sob tears from Amaya's throat and she collapses. Otura rushes to her side, kneeling and wrapping his arms around her, though he knows no comfort is possible."
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
+### c6_04  (3:4) · ACTION
+- **Beat / pose / setting:** close-up boy with stone face and crimson glowing eyes punching a metal pillar, denting it
+- **Shot:** CLOSE-UP · **Lighting/mood:** low-key, heavy black ink shadows; gritty dark-horror ink
+- **Characters:** Kudura Hasan (17) `KUDURA_HASAN_17.jpg`
+- **GORE (full intended):** Uncensored. Show wounds, blood spray, and impact damage at full horror intensity, with heavy speed lines and smear frames. Do not soften to match the reference.
+- **Lettering (in order):**
+  1. [SFX]: "KRANG"
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
+### c6_05  (3:4)
+- **Beat / pose / setting:** shopkeeper closing his eyes, shoulders slumped with guilt
+- **Shot:** MEDIUM · **Lighting/mood:** low-key, heavy black ink shadows; gritty dark-horror ink
+- **Characters:** Yama Amaruk `YAMA_AMARUK_AGE_UNKNOWN.jpg`
+- **Lettering (in order):**
+  1. [SPEECH balloon] **Yama**: "Amaya... Kudura... I am so sorry. Your father... Eldyn, was an exceptional man. And Otura... I am sorry you had to witness this."
+  2. [SPEECH balloon] **Yama**: "I know... you need time. But you must also know this."
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
+### c6_06  (3:4)
+- **Beat / pose / setting:** close-up of the shopkeeper's face, eyes open and intense
+- **Shot:** CLOSE-UP · **Lighting/mood:** low-key, heavy black ink shadows; gritty dark-horror ink
+- **Characters:** Yama Amaruk `YAMA_AMARUK_AGE_UNKNOWN.jpg`
+- **Lettering (in order):**
+  1. [SPEECH balloon] **Yama**: "Amaya, Kudura. I vow on my life, I will find out who is responsible for tonight. Your mother... she is alive. The High Council is likely already searching for her. Someone will answer for this."
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
+### c6_07  (3:4)
+- **Beat / pose / setting:** girl looking up from the boy's arms, tear-streaked disbelief
+- **Shot:** MEDIUM · **Lighting/mood:** low-key, heavy black ink shadows; gritty dark-horror ink
+- **Characters:** Amaya Hasan (17) `AMAYA_HASAN_17.jpg`
+- **Lettering (in order):**
+  1. [SPEECH balloon] **Amaya**: "I... I couldn't feel her. Outside... there was nothing."
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
+### c6_08  (3:4)
+- **Beat / pose / setting:** close-up of the boy turning from the dented pillar, dangerously calm
+- **Shot:** CLOSE-UP · **Lighting/mood:** low-key, heavy black ink shadows; gritty dark-horror ink
+- **Characters:** Kudura Hasan (17) `KUDURA_HASAN_17.jpg`
+- **Lettering (in order):**
+  1. [SPEECH balloon] **Kudura**: "Are you sure she's alive, Yama?"
+  2. [SPEECH balloon] **Yama**: "Your mother is a high-ranking High Council member, I'm positive. And I will do my part to help locate her, which means I must leave to convene with the Council... you cannot stay here alone."
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
+### c6_09  (3:4)
+- **Beat / pose / setting:** shopkeeper sweeping his gaze over the three teens
+- **Shot:** MEDIUM · **Lighting/mood:** low-key, heavy black ink shadows; gritty dark-horror ink
+- **Characters:** Yama Amaruk `YAMA_AMARUK_AGE_UNKNOWN.jpg`
+- **Lettering (in order):**
+  1. [SPEECH balloon] **Yama**: "The School of Ya'Oh is the only other place warded enough to keep you safe. You will all go while I am away."
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
+### c6_10  (16:9)
+- **Beat / pose / setting:** wide shot: girl stumbling to her feet screaming at the shopkeeper in fury and despair
+- **Shot:** WIDE · **Lighting/mood:** low-key, heavy black ink shadows; gritty dark-horror ink
+- **Characters:** Amaya Hasan (17) `AMAYA_HASAN_17.jpg`
+- **Lettering (in order):**
+  1. [SPEECH balloon] **Amaya**: "School?! How can you talk about SCHOOL?! My father is dead! My mother is missing! Our home is GONE! I can't... I can't do this, Kudura!"
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
+### c6_11  (3:4)
+- **Beat / pose / setting:** brother stepping toward sister, cold sharp expression; her shocked hurt face
+- **Shot:** MEDIUM · **Lighting/mood:** low-key, heavy black ink shadows; gritty dark-horror ink
+- **Characters:** Kudura Hasan (17) `KUDURA_HASAN_17.jpg`, Amaya Hasan (17) `AMAYA_HASAN_17.jpg`
+- **Lettering (in order):**
+  1. [SPEECH balloon] **Kudura**: "Amaya. Get it together."
+  2. [SPEECH balloon] **Amaya**: "How can you say that to me?! You get a taste of power and suddenly you're better than us?! You think you're some big shot now?!"
+  3. [SPEECH balloon] **Kudura**: "At least I'm trying to get something done instead of sitting there crying about it!"
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
+### c6_12  (9:16)
+- **Beat / pose / setting:** dynamic shot: shopkeeper stepping between the arguing siblings, immense authority
+- **Shot:** MEDIUM · **Lighting/mood:** low-key, heavy black ink shadows; gritty dark-horror ink
+- **Characters:** Yama Amaruk `YAMA_AMARUK_AGE_UNKNOWN.jpg`
+- **Lettering (in order):**
+  1. [SPEECH balloon] **Yama**: "Enough. Both of you have every right to your anger. To your grief. But I need you to hold onto it. Store that rage. We will have need of it."
+  2. [SPEECH balloon] **Amaya**: "Need of it? For what?"
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
+### c6_13  (3:4)
+- **Beat / pose / setting:** shopkeeper speaking firmly to the puzzled trio
+- **Shot:** MEDIUM · **Lighting/mood:** low-key, heavy black ink shadows; gritty dark-horror ink
+- **Characters:** Yama Amaruk `YAMA_AMARUK_AGE_UNKNOWN.jpg`
+- **Lettering (in order):**
+  1. [SPEECH balloon] **Yama**: "For your training. You must become strong. You must be able to defend yourselves in this world when I am not there to protect you."
+  2. [SPEECH balloon] **Yama**: "You will learn control, strategy, and how to fight as a team. After tonight, I've requested entry on your behalves to the elite training courses at the School of Ya'Oh."
+  3. [SPEECH balloon] **Otura**: "But we aren't even enrolled..."
+  4. [SPEECH balloon] **Yama**: "I have already made the arrangements. I will gather my strength and transport you all tomorrow."
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
+### c6_14  (3:4)
+- **Beat / pose / setting:** the boy's composure cracking, raw voice; shopkeeper nodding solemnly
+- **Shot:** MEDIUM · **Lighting/mood:** low-key, heavy black ink shadows; gritty dark-horror ink
+- **Characters:** Kudura Hasan (17) `KUDURA_HASAN_17.jpg`, Yama Amaruk `YAMA_AMARUK_AGE_UNKNOWN.jpg`
+- **Lettering (in order):**
+  1. [SPEECH balloon] **Kudura**: "And my father? His remains..."
+  2. [SPEECH balloon] **Yama**: "I will retrieve them immediately. I know how important preserving the remains is to your bloodline."
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
+### c6_15  (16:9)
+- **Beat / pose / setting:** three-way split panel: boy with quiet resolve, girl on sofa tears hardening into resentment, brother apart with clenched fists
+- **Shot:** SPLIT PANEL · **Lighting/mood:** low-key, heavy black ink shadows; gritty dark-horror ink
+- **Characters:** Otura (17) `OTURA_LIGHTBRINGER_17.jpg`, Amaya Hasan (17) `AMAYA_HASAN_17.jpg`, Kudura Hasan (17) `KUDURA_HASAN_17.jpg`
+- **Lettering (in order):**
+  1. [SPEECH balloon] **Yama**: "Otura, show Kudura and Amaya where the guest rooms are and get some rest. We have long days ahead of us."
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
+### c6_16  (3:4)
+- **Beat / pose / setting:** morning light: shopkeeper cooking breakfast in the emporium kitchen, steam
+- **Shot:** MEDIUM · **Lighting/mood:** pale morning light; gritty dark-horror ink
+- **Characters:** Yama Amaruk `YAMA_AMARUK_AGE_UNKNOWN.jpg`
+- **Lettering (in order):**
+  1. [CAPTION box]: "Skip to morning"
+  2. [SPEECH balloon] **Yama**: "Otura, Kudura, Amaya, breakfast's ready, eat as quickly as possible as I'll be transporting you all for your first day at the School of Ya'Oh. Be sure to bring your combat gear."
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
+### c6_17  (16:9)
+- **Beat / pose / setting:** three teens gearing up: boy strapping gear, girl deciding over her book, other boy yawning
+- **Shot:** MEDIUM · **Lighting/mood:** low-key, heavy black ink shadows; gritty dark-horror ink
+- **Characters:** Kudura Hasan (17) `KUDURA_HASAN_17.jpg`, Amaya Hasan (17) `AMAYA_HASAN_17.jpg`, Otura (17) `OTURA_LIGHTBRINGER_17.jpg`
+- **Lettering (in order):**
+  1. [SPEECH balloon] **Kudura**: "I'm ready."
+  2. [SPEECH balloon] **Amaya**: "Almost finished!"
+  3. [SPEECH balloon] **Otura**: "Yeah... Coming."
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
+### c6_18  (9:16)
+- **Beat / pose / setting:** glowing mystic circle portal opened on the floor, three teens gathering around
+- **Shot:** MEDIUM · **Lighting/mood:** low-key, heavy black ink shadows; gritty dark-horror ink
+- **Characters:** Yama Amaruk `YAMA_AMARUK_AGE_UNKNOWN.jpg`
+- **Lettering (in order):**
+  1. [SPEECH balloon] **Yama**: "Come to the living room when you all finish breakfast, we'll transport right away."
+  2. [SPEECH balloon] **Yama**: "Follow me, don't worry, it's safe."
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
+### c6_19  (9:16)
+- **Beat / pose / setting:** low angle: towering ancient temple-like gates of a majestic mystic university, ethereal morning sunlight through mist, a huge glowing barrier dome humming in the sky
+- **Shot:** LOW ANGLE · **Lighting/mood:** pale morning light; gritty dark-horror ink
+- **Characters:** none (environment / FX)
+- **Lettering (in order):**
+  1. [CAPTION box]: "Gates of the School of Ya'Oh · Morning"
+  2. [SPEECH balloon] **Yama**: "Welcome to the blessed School of Ya'Oh."
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
+### c6_20  (16:9)
+- **Beat / pose / setting:** three teens stepping out of fading purple portal energy carrying combat gear, boy in awe with fro blowing, girl clutching book, other boy narrow-eyed
+- **Shot:** MEDIUM · **Lighting/mood:** low-key, heavy black ink shadows; gritty dark-horror ink
+- **Characters:** Otura (17) `OTURA_LIGHTBRINGER_17.jpg`, Amaya Hasan (17) `AMAYA_HASAN_17.jpg`, Kudura Hasan (17) `KUDURA_HASAN_17.jpg`
+- **Lettering:** none (silent panel)
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
+### c6_21  (3:4)
+- **Beat / pose / setting:** over-the-shoulder toward the gates: a powerful welcoming female chancellor stands at the entrance, glowing sigil on her attire
+- **Shot:** OVER-THE-SHOULDER · **Lighting/mood:** low-key, heavy black ink shadows; gritty dark-horror ink
+- **Characters:** Gaya `GAYA_AGE_UNKNOWN.jpg`
+- **Lettering (in order):**
+  1. [SPEECH balloon] **Gaya**: "Yama Amaruk. It is rare to see the Emporium's master walking the grounds. And these must be the emergency transfers you requested."
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
+### c6_22  (3:4)
+- **Beat / pose / setting:** close-up of the chancellor's ancient knowing eyes
+- **Shot:** CLOSE-UP · **Lighting/mood:** low-key, heavy black ink shadows; gritty dark-horror ink
+- **Characters:** Gaya `GAYA_AGE_UNKNOWN.jpg`
+- **Lettering (in order):**
+  1. [SPEECH balloon] **Gaya**: "There is heavy grief clinging to you three. But behind these gates, you will find only focus."
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
+### c6_23  (16:9)
+- **Beat / pose / setting:** shopkeeper turning back to the trio, weary
+- **Shot:** MEDIUM · **Lighting/mood:** low-key, heavy black ink shadows; gritty dark-horror ink
+- **Characters:** Yama Amaruk `YAMA_AMARUK_AGE_UNKNOWN.jpg`
+- **Lettering (in order):**
+  1. [SPEECH balloon] **Yama**: "This is where we part ways for now. Chancellor Gaya will arrange your dormitories and your branding."
+  2. [SPEECH balloon] **Amaya**: "Branding?"
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
+### c6_24  (3:4)
+- **Beat / pose / setting:** close-up: the chancellor pulling back her robe sleeve revealing a glowing sigil etched into her forearm
+- **Shot:** CLOSE-UP · **Lighting/mood:** low-key, heavy black ink shadows; gritty dark-horror ink
+- **Characters:** Gaya `GAYA_AGE_UNKNOWN.jpg`
+- **Lettering (in order):**
+  1. [SPEECH balloon] **Gaya**: "The Sygil of Ya'Oh. It is a mandatory protective ward. Without it, you cannot survive the training grounds... nor can you be trusted by the Galactic Enforcers."
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
+### c6_25  (3:4)
+- **Beat / pose / setting:** one boy unbothered staring at the sigil, the other nervous touching a pendant hidden under his shirt
+- **Shot:** MEDIUM · **Lighting/mood:** low-key, heavy black ink shadows; gritty dark-horror ink
+- **Characters:** Kudura Hasan (17) `KUDURA_HASAN_17.jpg`, Otura (17) `OTURA_LIGHTBRINGER_17.jpg`
+- **Lettering (in order):**
+  1. [SPEECH balloon] **Kudura**: "Do it. Whatever it takes to get stronger."
+  2. [SPEECH balloon] **Gaya**: "Good. But before you settle in, we must evaluate where you stand."
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
+### c6_26  (9:16) · ACTION
+- **Beat / pose / setting:** low angle dynamic: a massive stone golem sentinel thrown violently through the air crashing into a stone pillar, shockwave, dark red blood spray
+- **Shot:** LOW ANGLE · **Lighting/mood:** low-key, heavy black ink shadows; gritty dark-horror ink
+- **Characters:** Gozu `GOZU_AGE_UNKNOWN.jpg`
+- **GORE (full intended):** Uncensored. Show wounds, blood spray, and impact damage at full horror intensity, with heavy speed lines and smear frames. Do not soften to match the reference.
+- **Lettering (in order):**
+  1. [SFX]: "KRA-KOOM!"
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
+### c6_27  (9:16)
+- **Beat / pose / setting:** full body reveal: a tall imposing one-horned hybrid demon werewolf teen with brown tail, hellfire radiating from his hands, cocky aggressive smirk, standing over the fallen golem
+- **Shot:** FULL BODY · **Lighting/mood:** firelight orange, embers; gritty dark-horror ink
+- **Characters:** Kano `KANO_AGE_UNKNOWN.jpg`
+- **Lettering (in order):**
+  1. [SPEECH balloon] **Kano**: "Boring. Isn't there anyone in this school who can actually take a punch?"
+  2. [SPEECH balloon] **Gaya**: "Your first evaluation will be surviving the yard."
+- **Continuity:** keep faces clear of balloons; match outfits to the card refs above.
